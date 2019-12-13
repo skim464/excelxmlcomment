@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint" xmlns:com="http://schemas.openxmlformats.org/drawingml/2006/compatibility" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main" showMasterPhAnim="0" showMasterSp="0">
+<notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" showMasterSp="0" showMasterPhAnim="0">
 	<cSld>
 		<spTree>
 			<nvGrpSpPr>
-				<cNvPr id="80" name="Shape 80" />
+				<cNvPr id="1" name="Shape 80" />
 				<cNvGrpSpPr />
 				<nvPr />
 			</nvGrpSpPr>
@@ -18,9 +18,11 @@
 			<sp>
 				<nvSpPr>
 					<cNvPr id="81" name="Google Shape;81;g74063f02a1_0_11:notes" />
-					<cNvSpPr />
+					<cNvSpPr>
+						<spLocks noGrp="1" noRot="1" noChangeAspect="1" />
+					</cNvSpPr>
 					<nvPr>
-						<ph idx="2" type="sldImg" />
+						<ph type="sldImg" idx="2" />
 					</nvPr>
 				</nvSpPr>
 				<spPr>
@@ -29,9 +31,13 @@
 						<ext cx="6096000" cy="3429000" />
 					</xfrm>
 					<custGeom>
-						<rect b="b" l="l" r="r" t="t" />
+						<avLst />
+						<gdLst />
+						<ahLst />
+						<cxnLst />
+						<rect l="l" t="t" r="r" b="b" />
 						<pathLst>
-							<path extrusionOk="0" h="120000" w="120000">
+							<path w="120000" h="120000" extrusionOk="0">
 								<moveTo>
 									<pt x="0" y="0" />
 								</moveTo>
@@ -53,9 +59,11 @@
 			<sp>
 				<nvSpPr>
 					<cNvPr id="82" name="Google Shape;82;g74063f02a1_0_11:notes" />
-					<cNvSpPr txBox="1" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
 					<nvPr>
-						<ph idx="1" type="body" />
+						<ph type="body" idx="1" />
 					</nvPr>
 				</nvSpPr>
 				<spPr>
@@ -68,12 +76,12 @@
 					</prstGeom>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="t" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle />
 					<p>
-						<pPr indent="0" lvl="0" marL="0" rtl="0" algn="l">
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -82,10 +90,6 @@
 							</spcAft>
 							<buNone />
 						</pPr>
-						<r>
-							<t>
-							</t>
-						</r>
 						<endParaRPr />
 					</p>
 				</txBody>

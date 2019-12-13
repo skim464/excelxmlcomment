@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint" xmlns:com="http://schemas.openxmlformats.org/drawingml/2006/compatibility" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main">
+<sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
 	<cSld>
 		<spTree>
 			<nvGrpSpPr>
-				<cNvPr id="65" name="Shape 65" />
+				<cNvPr id="1" name="Shape 65" />
 				<cNvGrpSpPr />
 				<nvPr />
 			</nvGrpSpPr>
@@ -63,12 +63,12 @@
 					</ln>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="t" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle />
 					<p>
-						<pPr indent="0" lvl="0" marL="0" rtl="0" algn="l">
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -116,29 +116,29 @@
 					</xfrm>
 					<prstGeom prst="triangle">
 						<avLst>
-							<gd fmla="val 50000" name="adj" />
+							<gd name="adj" fmla="val 50000" />
 						</avLst>
 					</prstGeom>
 					<solidFill>
 						<schemeClr val="lt2" />
 					</solidFill>
-					<ln cap="flat" cmpd="sng" w="9525">
+					<ln w="9525" cap="flat" cmpd="sng">
 						<solidFill>
 							<schemeClr val="dk2" />
 						</solidFill>
 						<prstDash val="solid" />
 						<round />
-						<headEnd len="sm" w="sm" type="none" />
-						<tailEnd len="sm" w="sm" type="none" />
+						<headEnd type="none" w="sm" len="sm" />
+						<tailEnd type="none" w="sm" len="sm" />
 					</ln>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="ctr" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle />
 					<p>
-						<pPr indent="0" lvl="0" marL="0" rtl="0" algn="l">
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -147,10 +147,6 @@
 							</spcAft>
 							<buNone />
 						</pPr>
-						<r>
-							<t>
-							</t>
-						</r>
 						<endParaRPr />
 					</p>
 				</txBody>
@@ -200,14 +196,14 @@
 						<avLst />
 					</prstGeom>
 					<noFill />
-					<ln cap="flat" cmpd="sng" w="76200">
+					<ln w="76200" cap="flat" cmpd="sng">
 						<solidFill>
 							<schemeClr val="dk2" />
 						</solidFill>
 						<prstDash val="solid" />
 						<round />
-						<headEnd len="med" w="med" type="none" />
-						<tailEnd len="med" w="med" type="triangle" />
+						<headEnd type="none" w="med" len="med" />
+						<tailEnd type="triangle" w="med" len="med" />
 					</ln>
 				</spPr>
 			</cxnSp>
@@ -231,12 +227,12 @@
 					</ln>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="t" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle />
 					<p>
-						<pPr indent="0" lvl="0" marL="0" rtl="0" algn="l">
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -248,19 +244,7 @@
 						<r>
 							<rPr lang="en" />
 							<t>
-								Once the alternate look is set up for specified duration of time, unlocking screen will accept either of the faces (original + alternate). It will be done seamlessly as if an alternative face is not set up. This improves
-							</t>
-						</r>
-						<r>
-							<rPr lang="en" />
-							<t>
-								simplicity
-							</t>
-						</r>
-						<r>
-							<rPr lang="en" />
-							<t>
-								.
+								Once the alternate look is set up for specified duration of time, unlocking screen will accept either of the faces (original + alternate). It will be done seamlessly as if an alternative face is not set up. This improves simplicity.
 							</t>
 						</r>
 						<endParaRPr />

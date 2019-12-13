@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<notesMaster xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint" xmlns:com="http://schemas.openxmlformats.org/drawingml/2006/compatibility" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main">
+<notesMaster xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
 	<cSld>
+		<bg>
+			<bgRef idx="1001">
+				<schemeClr val="bg1" />
+			</bgRef>
+		</bg>
 		<spTree>
 			<nvGrpSpPr>
-				<cNvPr id="2" name="Shape 2" />
+				<cNvPr id="1" name="Shape 2" />
 				<cNvGrpSpPr />
 				<nvPr />
 			</nvGrpSpPr>
@@ -18,9 +23,11 @@
 			<sp>
 				<nvSpPr>
 					<cNvPr id="3" name="Google Shape;3;n" />
-					<cNvSpPr />
+					<cNvSpPr>
+						<spLocks noGrp="1" noRot="1" noChangeAspect="1" />
+					</cNvSpPr>
 					<nvPr>
-						<ph idx="2" type="sldImg" />
+						<ph type="sldImg" idx="2" />
 					</nvPr>
 				</nvSpPr>
 				<spPr>
@@ -29,9 +36,13 @@
 						<ext cx="6096075" cy="3429000" />
 					</xfrm>
 					<custGeom>
-						<rect b="b" l="l" r="r" t="t" />
+						<avLst />
+						<gdLst />
+						<ahLst />
+						<cxnLst />
+						<rect l="l" t="t" r="r" b="b" />
 						<pathLst>
-							<path extrusionOk="0" h="120000" w="120000">
+							<path w="120000" h="120000" extrusionOk="0">
 								<moveTo>
 									<pt x="0" y="0" />
 								</moveTo>
@@ -49,23 +60,25 @@
 						</pathLst>
 					</custGeom>
 					<noFill />
-					<ln cap="flat" cmpd="sng" w="9525">
+					<ln w="9525" cap="flat" cmpd="sng">
 						<solidFill>
 							<srgbClr val="000000" />
 						</solidFill>
 						<prstDash val="solid" />
 						<round />
-						<headEnd len="sm" w="sm" type="none" />
-						<tailEnd len="sm" w="sm" type="none" />
+						<headEnd type="none" w="sm" len="sm" />
+						<tailEnd type="none" w="sm" len="sm" />
 					</ln>
 				</spPr>
 			</sp>
 			<sp>
 				<nvSpPr>
 					<cNvPr id="4" name="Google Shape;4;n" />
-					<cNvSpPr txBox="1" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
 					<nvPr>
-						<ph idx="1" type="body" />
+						<ph type="body" idx="1" />
 					</nvPr>
 				</nvSpPr>
 				<spPr>
@@ -82,11 +95,11 @@
 					</ln>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="t" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle>
-						<lvl1pPr indent="-298450" lvl="0" marL="457200">
+						<lvl1pPr marL="457200" lvl="0" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -97,7 +110,7 @@
 							<buChar char="●" />
 							<defRPr sz="1100" />
 						</lvl1pPr>
-						<lvl2pPr indent="-298450" lvl="1" marL="914400">
+						<lvl2pPr marL="914400" lvl="1" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -108,7 +121,7 @@
 							<buChar char="○" />
 							<defRPr sz="1100" />
 						</lvl2pPr>
-						<lvl3pPr indent="-298450" lvl="2" marL="1371600">
+						<lvl3pPr marL="1371600" lvl="2" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -119,7 +132,7 @@
 							<buChar char="■" />
 							<defRPr sz="1100" />
 						</lvl3pPr>
-						<lvl4pPr indent="-298450" lvl="3" marL="1828800">
+						<lvl4pPr marL="1828800" lvl="3" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -130,7 +143,7 @@
 							<buChar char="●" />
 							<defRPr sz="1100" />
 						</lvl4pPr>
-						<lvl5pPr indent="-298450" lvl="4" marL="2286000">
+						<lvl5pPr marL="2286000" lvl="4" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -141,7 +154,7 @@
 							<buChar char="○" />
 							<defRPr sz="1100" />
 						</lvl5pPr>
-						<lvl6pPr indent="-298450" lvl="5" marL="2743200">
+						<lvl6pPr marL="2743200" lvl="5" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -152,7 +165,7 @@
 							<buChar char="■" />
 							<defRPr sz="1100" />
 						</lvl6pPr>
-						<lvl7pPr indent="-298450" lvl="6" marL="3200400">
+						<lvl7pPr marL="3200400" lvl="6" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -163,7 +176,7 @@
 							<buChar char="●" />
 							<defRPr sz="1100" />
 						</lvl7pPr>
-						<lvl8pPr indent="-298450" lvl="7" marL="3657600">
+						<lvl8pPr marL="3657600" lvl="7" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -174,7 +187,7 @@
 							<buChar char="○" />
 							<defRPr sz="1100" />
 						</lvl8pPr>
-						<lvl9pPr indent="-298450" lvl="8" marL="4114800">
+						<lvl9pPr marL="4114800" lvl="8" indent="-298450">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -186,14 +199,16 @@
 							<defRPr sz="1100" />
 						</lvl9pPr>
 					</lstStyle>
-					<p />
+					<p>
+						<endParaRPr />
+					</p>
 				</txBody>
 			</sp>
 		</spTree>
 	</cSld>
-	<clrMap accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" bg1="lt1" bg2="dk2" tx1="dk1" tx2="lt2" folHlink="folHlink" hlink="hlink" />
+	<clrMap bg1="lt1" tx1="dk1" bg2="dk2" tx2="lt2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink" />
 	<notesStyle>
-		<defPPr lvl="0" marR="0" rtl="0" algn="l">
+		<defPPr marR="0" lvl="0" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -204,7 +219,7 @@
 				<spcPts val="0" />
 			</spcAft>
 		</defPPr>
-		<lvl1pPr lvl="0" marR="0" rtl="0" algn="l">
+		<lvl1pPr marR="0" lvl="0" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -218,7 +233,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -228,7 +243,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl1pPr>
-		<lvl2pPr lvl="1" marR="0" rtl="0" algn="l">
+		<lvl2pPr marR="0" lvl="1" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -242,7 +257,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -252,7 +267,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl2pPr>
-		<lvl3pPr lvl="2" marR="0" rtl="0" algn="l">
+		<lvl3pPr marR="0" lvl="2" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -266,7 +281,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -276,7 +291,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl3pPr>
-		<lvl4pPr lvl="3" marR="0" rtl="0" algn="l">
+		<lvl4pPr marR="0" lvl="3" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -290,7 +305,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -300,7 +315,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl4pPr>
-		<lvl5pPr lvl="4" marR="0" rtl="0" algn="l">
+		<lvl5pPr marR="0" lvl="4" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -314,7 +329,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -324,7 +339,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl5pPr>
-		<lvl6pPr lvl="5" marR="0" rtl="0" algn="l">
+		<lvl6pPr marR="0" lvl="5" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -338,7 +353,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -348,7 +363,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl6pPr>
-		<lvl7pPr lvl="6" marR="0" rtl="0" algn="l">
+		<lvl7pPr marR="0" lvl="6" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -362,7 +377,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -372,7 +387,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl7pPr>
-		<lvl8pPr lvl="7" marR="0" rtl="0" algn="l">
+		<lvl8pPr marR="0" lvl="7" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -386,7 +401,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -396,7 +411,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl8pPr>
-		<lvl9pPr lvl="8" marR="0" rtl="0" algn="l">
+		<lvl9pPr marR="0" lvl="8" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -410,7 +425,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>

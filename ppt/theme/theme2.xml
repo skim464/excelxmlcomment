@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<theme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" name="Simple Light">
+<theme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
 	<themeElements>
-		<clrScheme name="Simple Light">
+		<clrScheme name="Default">
 			<dk1>
 				<srgbClr val="000000" />
 			</dk1>
@@ -9,34 +9,34 @@
 				<srgbClr val="FFFFFF" />
 			</lt1>
 			<dk2>
-				<srgbClr val="595959" />
+				<srgbClr val="158158" />
 			</dk2>
 			<lt2>
-				<srgbClr val="EEEEEE" />
+				<srgbClr val="F3F3F3" />
 			</lt2>
 			<accent1>
-				<srgbClr val="FFAB40" />
+				<srgbClr val="058DC7" />
 			</accent1>
 			<accent2>
-				<srgbClr val="212121" />
+				<srgbClr val="50B432" />
 			</accent2>
 			<accent3>
-				<srgbClr val="78909C" />
+				<srgbClr val="ED561B" />
 			</accent3>
 			<accent4>
-				<srgbClr val="FFAB40" />
+				<srgbClr val="EDEF00" />
 			</accent4>
 			<accent5>
-				<srgbClr val="0097A7" />
+				<srgbClr val="24CBE5" />
 			</accent5>
 			<accent6>
-				<srgbClr val="EEFF41" />
+				<srgbClr val="64E572" />
 			</accent6>
 			<hlink>
-				<srgbClr val="0097A7" />
+				<srgbClr val="2200CC" />
 			</hlink>
 			<folHlink>
-				<srgbClr val="0097A7" />
+				<srgbClr val="551A8B" />
 			</folHlink>
 		</clrScheme>
 		<fontScheme name="Office">
@@ -274,4 +274,6 @@
 			</bgFillStyleLst>
 		</fmtScheme>
 	</themeElements>
+	<objectDefaults />
+	<extraClrSchemeLst />
 </theme>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<presentation xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint" xmlns:com="http://schemas.openxmlformats.org/drawingml/2006/compatibility" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main" autoCompressPictures="0" strictFirstAndLastChars="0" saveSubsetFonts="1">
+<presentation xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" strictFirstAndLastChars="0" saveSubsetFonts="1" autoCompressPictures="0">
 	<sldMasterIdLst>
-		<sldMasterId id="2147483659" r:id="rId5" />
+		<sldMasterId id="2147483659" r:id="rId1" />
 	</sldMasterIdLst>
 	<notesMasterIdLst>
-		<notesMasterId r:id="rId6" />
+		<notesMasterId r:id="rId7" />
 	</notesMasterIdLst>
 	<sldIdLst>
-		<sldId id="256" r:id="rId7" />
-		<sldId id="257" r:id="rId8" />
-		<sldId id="258" r:id="rId9" />
-		<sldId id="259" r:id="rId10" />
-		<sldId id="260" r:id="rId11" />
+		<sldId id="256" r:id="rId2" />
+		<sldId id="257" r:id="rId3" />
+		<sldId id="258" r:id="rId4" />
+		<sldId id="259" r:id="rId5" />
+		<sldId id="260" r:id="rId6" />
 	</sldIdLst>
-	<sldSz cy="5143500" cx="9144000" />
+	<sldSz cx="9144000" cy="5143500" type="screen16x9" />
 	<notesSz cx="6858000" cy="9144000" />
 	<defaultTextStyle>
-		<defPPr lvl="0" marR="0" rtl="0" algn="l">
+		<defPPr marR="0" lvl="0" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -27,7 +27,7 @@
 				<spcPts val="0" />
 			</spcAft>
 		</defPPr>
-		<lvl1pPr lvl="0" marR="0" rtl="0" algn="l">
+		<lvl1pPr marR="0" lvl="0" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -41,7 +41,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -51,7 +51,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl1pPr>
-		<lvl2pPr lvl="1" marR="0" rtl="0" algn="l">
+		<lvl2pPr marR="0" lvl="1" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -65,7 +65,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -75,7 +75,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl2pPr>
-		<lvl3pPr lvl="2" marR="0" rtl="0" algn="l">
+		<lvl3pPr marR="0" lvl="2" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -89,7 +89,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -99,7 +99,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl3pPr>
-		<lvl4pPr lvl="3" marR="0" rtl="0" algn="l">
+		<lvl4pPr marR="0" lvl="3" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -113,7 +113,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -123,7 +123,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl4pPr>
-		<lvl5pPr lvl="4" marR="0" rtl="0" algn="l">
+		<lvl5pPr marR="0" lvl="4" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -137,7 +137,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -147,7 +147,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl5pPr>
-		<lvl6pPr lvl="5" marR="0" rtl="0" algn="l">
+		<lvl6pPr marR="0" lvl="5" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -161,7 +161,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -171,7 +171,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl6pPr>
-		<lvl7pPr lvl="6" marR="0" rtl="0" algn="l">
+		<lvl7pPr marR="0" lvl="6" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -185,7 +185,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -195,7 +195,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl7pPr>
-		<lvl8pPr lvl="7" marR="0" rtl="0" algn="l">
+		<lvl8pPr marR="0" lvl="7" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -209,7 +209,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -219,7 +219,7 @@
 				<sym typeface="Arial" />
 			</defRPr>
 		</lvl8pPr>
-		<lvl9pPr lvl="8" marR="0" rtl="0" algn="l">
+		<lvl9pPr marR="0" lvl="8" algn="l" rtl="0">
 			<lnSpc>
 				<spcPct val="100000" />
 			</lnSpc>
@@ -233,7 +233,7 @@
 				<srgbClr val="000000" />
 			</buClr>
 			<buFont typeface="Arial" />
-			<defRPr b="0" i="0" sz="1400" u="none" cap="none" strike="noStrike">
+			<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
 				<solidFill>
 					<srgbClr val="000000" />
 				</solidFill>
@@ -246,7 +246,7 @@
 	</defaultTextStyle>
 	<extLst>
 		<ext uri="{EFAFB233-063F-42B5-8137-9DF3F51BA10A}">
-			<sldGuideLst>
+			<sldGuideLst xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main">
 				<guide id="1" orient="horz" pos="1620">
 					<clr>
 						<srgbClr val="A4A3A4" />

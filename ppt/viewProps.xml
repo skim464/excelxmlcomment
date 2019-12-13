@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<viewPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint" xmlns:com="http://schemas.openxmlformats.org/drawingml/2006/compatibility" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main" showComments="0">
+<viewPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+	<normalViewPr>
+		<restoredLeft sz="15620" />
+		<restoredTop sz="94660" />
+	</normalViewPr>
 	<slideViewPr>
 		<cSldViewPr snapToGrid="0">
 			<cViewPr varScale="1">
 				<scale>
-					<sx n="100" d="100" />
-					<sy n="100" d="100" />
+					<sx n="142" d="100" />
+					<sy n="142" d="100" />
 				</scale>
-				<origin x="0" y="0" />
+				<origin x="1638" y="126" />
 			</cViewPr>
 			<guideLst>
-				<guide pos="1620" orient="horz" />
+				<guide orient="horz" pos="1620" />
 				<guide pos="2880" />
 			</guideLst>
 		</cSldViewPr>
 	</slideViewPr>
+	<notesTextViewPr>
+		<cViewPr>
+			<scale>
+				<sx n="1" d="1" />
+				<sy n="1" d="1" />
+			</scale>
+			<origin x="0" y="0" />
+		</cViewPr>
+	</notesTextViewPr>
+	<gridSpacing cx="76200" cy="76200" />
 </viewPr>

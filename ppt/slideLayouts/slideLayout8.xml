@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint" xmlns:com="http://schemas.openxmlformats.org/drawingml/2006/compatibility" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main" matchingName="Section title and description">
+<sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" matchingName="Section title and description">
 	<cSld name="SECTION_TITLE_AND_DESCRIPTION">
 		<spTree>
 			<nvGrpSpPr>
-				<cNvPr id="35" name="Shape 35" />
+				<cNvPr id="1" name="Shape 35" />
 				<cNvGrpSpPr />
 				<nvPr />
 			</nvGrpSpPr>
@@ -37,12 +37,12 @@
 					</ln>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="ctr" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle />
 					<p>
-						<pPr indent="0" lvl="0" marL="0" rtl="0" algn="l">
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -51,10 +51,6 @@
 							</spcAft>
 							<buNone />
 						</pPr>
-						<r>
-							<t>
-							</t>
-						</r>
 						<endParaRPr />
 					</p>
 				</txBody>
@@ -62,7 +58,9 @@
 			<sp>
 				<nvSpPr>
 					<cNvPr id="37" name="Google Shape;37;p9" />
-					<cNvSpPr txBox="1" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
 					<nvPr>
 						<ph type="title" />
 					</nvPr>
@@ -77,7 +75,7 @@
 					</prstGeom>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="b" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="b" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle>
@@ -181,15 +179,19 @@
 							<defRPr sz="4200" />
 						</lvl9pPr>
 					</lstStyle>
-					<p />
+					<p>
+						<endParaRPr />
+					</p>
 				</txBody>
 			</sp>
 			<sp>
 				<nvSpPr>
 					<cNvPr id="38" name="Google Shape;38;p9" />
-					<cNvSpPr txBox="1" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
 					<nvPr>
-						<ph idx="1" type="subTitle" />
+						<ph type="subTitle" idx="1" />
 					</nvPr>
 				</nvSpPr>
 				<spPr>
@@ -202,7 +204,7 @@
 					</prstGeom>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="t" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle>
@@ -333,15 +335,19 @@
 							<defRPr sz="2100" />
 						</lvl9pPr>
 					</lstStyle>
-					<p />
+					<p>
+						<endParaRPr />
+					</p>
 				</txBody>
 			</sp>
 			<sp>
 				<nvSpPr>
 					<cNvPr id="39" name="Google Shape;39;p9" />
-					<cNvSpPr txBox="1" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
 					<nvPr>
-						<ph idx="2" type="body" />
+						<ph type="body" idx="2" />
 					</nvPr>
 				</nvSpPr>
 				<spPr>
@@ -354,11 +360,11 @@
 					</prstGeom>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="ctr" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle>
-						<lvl1pPr indent="-342900" lvl="0" marL="457200">
+						<lvl1pPr marL="457200" lvl="0" indent="-342900">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -369,7 +375,7 @@
 							<buChar char="●" />
 							<defRPr />
 						</lvl1pPr>
-						<lvl2pPr indent="-317500" lvl="1" marL="914400">
+						<lvl2pPr marL="914400" lvl="1" indent="-317500">
 							<spcBef>
 								<spcPts val="1600" />
 							</spcBef>
@@ -380,7 +386,7 @@
 							<buChar char="○" />
 							<defRPr />
 						</lvl2pPr>
-						<lvl3pPr indent="-317500" lvl="2" marL="1371600">
+						<lvl3pPr marL="1371600" lvl="2" indent="-317500">
 							<spcBef>
 								<spcPts val="1600" />
 							</spcBef>
@@ -391,7 +397,7 @@
 							<buChar char="■" />
 							<defRPr />
 						</lvl3pPr>
-						<lvl4pPr indent="-317500" lvl="3" marL="1828800">
+						<lvl4pPr marL="1828800" lvl="3" indent="-317500">
 							<spcBef>
 								<spcPts val="1600" />
 							</spcBef>
@@ -402,7 +408,7 @@
 							<buChar char="●" />
 							<defRPr />
 						</lvl4pPr>
-						<lvl5pPr indent="-317500" lvl="4" marL="2286000">
+						<lvl5pPr marL="2286000" lvl="4" indent="-317500">
 							<spcBef>
 								<spcPts val="1600" />
 							</spcBef>
@@ -413,7 +419,7 @@
 							<buChar char="○" />
 							<defRPr />
 						</lvl5pPr>
-						<lvl6pPr indent="-317500" lvl="5" marL="2743200">
+						<lvl6pPr marL="2743200" lvl="5" indent="-317500">
 							<spcBef>
 								<spcPts val="1600" />
 							</spcBef>
@@ -424,7 +430,7 @@
 							<buChar char="■" />
 							<defRPr />
 						</lvl6pPr>
-						<lvl7pPr indent="-317500" lvl="6" marL="3200400">
+						<lvl7pPr marL="3200400" lvl="6" indent="-317500">
 							<spcBef>
 								<spcPts val="1600" />
 							</spcBef>
@@ -435,7 +441,7 @@
 							<buChar char="●" />
 							<defRPr />
 						</lvl7pPr>
-						<lvl8pPr indent="-317500" lvl="7" marL="3657600">
+						<lvl8pPr marL="3657600" lvl="7" indent="-317500">
 							<spcBef>
 								<spcPts val="1600" />
 							</spcBef>
@@ -446,7 +452,7 @@
 							<buChar char="○" />
 							<defRPr />
 						</lvl8pPr>
-						<lvl9pPr indent="-317500" lvl="8" marL="4114800">
+						<lvl9pPr marL="4114800" lvl="8" indent="-317500">
 							<spcBef>
 								<spcPts val="1600" />
 							</spcBef>
@@ -458,15 +464,19 @@
 							<defRPr />
 						</lvl9pPr>
 					</lstStyle>
-					<p />
+					<p>
+						<endParaRPr />
+					</p>
 				</txBody>
 			</sp>
 			<sp>
 				<nvSpPr>
 					<cNvPr id="40" name="Google Shape;40;p9" />
-					<cNvSpPr txBox="1" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
 					<nvPr>
-						<ph idx="12" type="sldNum" />
+						<ph type="sldNum" idx="12" />
 					</nvPr>
 				</nvSpPr>
 				<spPr>
@@ -479,7 +489,7 @@
 					</prstGeom>
 				</spPr>
 				<txBody>
-					<bodyPr anchorCtr="0" anchor="ctr" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle>
@@ -521,7 +531,7 @@
 						</lvl9pPr>
 					</lstStyle>
 					<p>
-						<pPr indent="0" lvl="0" marL="0" rtl="0" algn="r">
+						<pPr marL="0" lvl="0" indent="0" algn="r" rtl="0">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>

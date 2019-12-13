@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cmLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+	<cm authorId="1" dt="2019-12-12T21:57:09.488" idx="2">
+		<pos x="106" y="106" />
+		<text>
+			Comment Is Here
+		</text>
+		<extLst>
+			<ext uri="{C676402C-5697-4E1C-873F-D02D1690AC5C}">
+				<threadingInfo xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main" timeZoneBias="360" />
+			</ext>
+		</extLst>
+	</cm>
+</cmLst>
