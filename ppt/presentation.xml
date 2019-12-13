@@ -4,14 +4,10 @@
 		<sldMasterId id="2147483659" r:id="rId1" />
 	</sldMasterIdLst>
 	<notesMasterIdLst>
-		<notesMasterId r:id="rId7" />
+		<notesMasterId r:id="rId3" />
 	</notesMasterIdLst>
 	<sldIdLst>
-		<sldId id="256" r:id="rId2" />
-		<sldId id="257" r:id="rId3" />
-		<sldId id="258" r:id="rId4" />
-		<sldId id="259" r:id="rId5" />
-		<sldId id="260" r:id="rId6" />
+		<sldId id="260" r:id="rId2" />
 	</sldIdLst>
 	<sldSz cx="9144000" cy="5143500" type="screen16x9" />
 	<notesSz cx="6858000" cy="9144000" />

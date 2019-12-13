@@ -4,7 +4,7 @@
 		0
 	</TotalTime>
 	<Words>
-		112
+		3
 	</Words>
 	<Application>
 		Microsoft Office PowerPoint
@@ -13,13 +13,13 @@
 		On-screen Show (16:9)
 	</PresentationFormat>
 	<Paragraphs>
-		19
+		1
 	</Paragraphs>
 	<Slides>
-		5
+		1
 	</Slides>
 	<Notes>
-		5
+		1
 	</Notes>
 	<HiddenSlides>
 		0
@@ -39,7 +39,7 @@
 			</variant>
 			<variant>
 				<i4>
-					2
+					1
 				</i4>
 			</variant>
 			<variant>
@@ -59,36 +59,21 @@
 			</variant>
 			<variant>
 				<i4>
-					5
+					1
 				</i4>
 			</variant>
 		</vector>
 	</HeadingPairs>
 	<TitlesOfParts>
-		<vector size="8" baseType="lpstr">
+		<vector size="3" baseType="lpstr">
 			<lpstr>
 				Arial
-			</lpstr>
-			<lpstr>
-				Georgia
 			</lpstr>
 			<lpstr>
 				Simple Light
 			</lpstr>
 			<lpstr>
-				PowerPoint Presentation
-			</lpstr>
-			<lpstr>
-				PowerPoint Presentation
-			</lpstr>
-			<lpstr>
-				PowerPoint Presentation
-			</lpstr>
-			<lpstr>
-				PowerPoint Presentation
-			</lpstr>
-			<lpstr>
-				PowerPoint Presentation
+				Title is Here
 			</lpstr>
 		</vector>
 	</TitlesOfParts>

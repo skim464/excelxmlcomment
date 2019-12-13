@@ -3,7 +3,7 @@
 	<cSld>
 		<spTree>
 			<nvGrpSpPr>
-				<cNvPr id="1" name="Shape 53" />
+				<cNvPr id="1" name="Shape 88" />
 				<cNvGrpSpPr />
 				<nvPr />
 			</nvGrpSpPr>
@@ -15,119 +15,32 @@
 					<chExt cx="0" cy="0" />
 				</xfrm>
 			</grpSpPr>
-			<pic>
-				<nvPicPr>
-					<cNvPr id="54" name="Google Shape;54;p13" />
-					<cNvPicPr preferRelativeResize="0" />
-					<nvPr />
-				</nvPicPr>
-				<blipFill>
-					<blip r:embed="rId3">
-						<alphaModFix />
-					</blip>
-					<stretch>
-						<fillRect />
-					</stretch>
-				</blipFill>
-				<spPr>
-					<xfrm>
-						<off x="57875" y="152400" />
-						<ext cx="2574247" cy="4838699" />
-					</xfrm>
-					<prstGeom prst="rect">
-						<avLst />
-					</prstGeom>
-					<noFill />
-					<ln>
-						<noFill />
-					</ln>
-				</spPr>
-			</pic>
-			<pic>
-				<nvPicPr>
-					<cNvPr id="55" name="Google Shape;55;p13" />
-					<cNvPicPr preferRelativeResize="0" />
-					<nvPr />
-				</nvPicPr>
-				<blipFill>
-					<blip r:embed="rId4">
-						<alphaModFix />
-					</blip>
-					<stretch>
-						<fillRect />
-					</stretch>
-				</blipFill>
-				<spPr>
-					<xfrm>
-						<off x="4052772" y="152400" />
-						<ext cx="2431113" cy="4838699" />
-					</xfrm>
-					<prstGeom prst="rect">
-						<avLst />
-					</prstGeom>
-					<noFill />
-					<ln>
-						<noFill />
-					</ln>
-				</spPr>
-			</pic>
-			<cxnSp>
-				<nvCxnSpPr>
-					<cNvPr id="56" name="Google Shape;56;p13" />
-					<cNvCxnSpPr>
-						<stCxn id="54" idx="3" />
-						<endCxn id="55" idx="1" />
-					</cNvCxnSpPr>
-					<nvPr />
-				</nvCxnSpPr>
-				<spPr>
-					<xfrm>
-						<off x="2632122" y="2571749" />
-						<ext cx="1420500" cy="0" />
-					</xfrm>
-					<prstGeom prst="straightConnector1">
-						<avLst />
-					</prstGeom>
-					<noFill />
-					<ln w="76200" cap="flat" cmpd="sng">
-						<solidFill>
-							<schemeClr val="dk2" />
-						</solidFill>
-						<prstDash val="solid" />
-						<round />
-						<headEnd type="none" w="med" len="med" />
-						<tailEnd type="triangle" w="med" len="med" />
-					</ln>
-				</spPr>
-			</cxnSp>
 			<sp>
 				<nvSpPr>
-					<cNvPr id="57" name="Google Shape;57;p13" />
-					<cNvSpPr txBox="1" />
-					<nvPr />
+					<cNvPr id="89" name="Google Shape;89;p17" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="ctrTitle" />
+					</nvPr>
 				</nvSpPr>
 				<spPr>
 					<xfrm>
-						<off x="4677025" y="634600" />
-						<ext cx="1182600" cy="346200" />
+						<off x="311708" y="744575" />
+						<ext cx="8520600" cy="2052600" />
 					</xfrm>
 					<prstGeom prst="rect">
 						<avLst />
 					</prstGeom>
-					<solidFill>
-						<srgbClr val="B7B7B7" />
-					</solidFill>
-					<ln>
-						<noFill />
-					</ln>
 				</spPr>
 				<txBody>
-					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="b" anchorCtr="0">
 						<noAutofit />
 					</bodyPr>
 					<lstStyle />
 					<p>
-						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+						<pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
 							<spcBef>
 								<spcPts val="0" />
 							</spcBef>
@@ -137,182 +50,12 @@
 							<buNone />
 						</pPr>
 						<r>
-							<rPr lang="en" />
+							<rPr lang="en-US" dirty="0" />
 							<t>
-								Set Alt Look
+								Title is Here
 							</t>
 						</r>
-						<endParaRPr />
-					</p>
-				</txBody>
-			</sp>
-			<sp>
-				<nvSpPr>
-					<cNvPr id="58" name="Google Shape;58;p13" />
-					<cNvSpPr txBox="1" />
-					<nvPr />
-				</nvSpPr>
-				<spPr>
-					<xfrm>
-						<off x="2726650" y="288450" />
-						<ext cx="1427100" cy="1940700" />
-					</xfrm>
-					<prstGeom prst="rect">
-						<avLst />
-					</prstGeom>
-					<noFill />
-					<ln>
-						<noFill />
-					</ln>
-				</spPr>
-				<txBody>
-					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
-						<noAutofit />
-					</bodyPr>
-					<lstStyle />
-					<p>
-						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
-							<spcBef>
-								<spcPts val="0" />
-							</spcBef>
-							<spcAft>
-								<spcPts val="0" />
-							</spcAft>
-							<buNone />
-						</pPr>
-						<r>
-							<rPr lang="en" />
-							<t>
-								When the user fails to unlock the phone with faceID, it takes the user to the backup unlocking method
-							</t>
-						</r>
-						<endParaRPr />
-					</p>
-				</txBody>
-			</sp>
-			<sp>
-				<nvSpPr>
-					<cNvPr id="59" name="Google Shape;59;p13" />
-					<cNvSpPr txBox="1" />
-					<nvPr />
-				</nvSpPr>
-				<spPr>
-					<xfrm>
-						<off x="2632150" y="2914325" />
-						<ext cx="1521600" cy="1940700" />
-					</xfrm>
-					<prstGeom prst="rect">
-						<avLst />
-					</prstGeom>
-					<noFill />
-					<ln>
-						<noFill />
-					</ln>
-				</spPr>
-				<txBody>
-					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
-						<noAutofit />
-					</bodyPr>
-					<lstStyle />
-					<p>
-						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
-							<spcBef>
-								<spcPts val="0" />
-							</spcBef>
-							<spcAft>
-								<spcPts val="0" />
-							</spcAft>
-							<buNone />
-						</pPr>
-						<r>
-							<rPr lang="en" />
-							<t>
-								In that method, User will be given a button that allows the user to set an alternate look
-							</t>
-						</r>
-						<endParaRPr />
-					</p>
-				</txBody>
-			</sp>
-			<pic>
-				<nvPicPr>
-					<cNvPr id="60" name="Google Shape;60;p13" />
-					<cNvPicPr preferRelativeResize="0" />
-					<nvPr />
-				</nvPicPr>
-				<blipFill>
-					<blip r:embed="rId4">
-						<alphaModFix />
-					</blip>
-					<stretch>
-						<fillRect />
-					</stretch>
-				</blipFill>
-				<spPr>
-					<xfrm>
-						<off x="6650622" y="152400" />
-						<ext cx="2431113" cy="4838699" />
-					</xfrm>
-					<prstGeom prst="rect">
-						<avLst />
-					</prstGeom>
-					<noFill />
-					<ln>
-						<noFill />
-					</ln>
-				</spPr>
-			</pic>
-			<sp>
-				<nvSpPr>
-					<cNvPr id="61" name="Google Shape;61;p13" />
-					<cNvSpPr txBox="1" />
-					<nvPr />
-				</nvSpPr>
-				<spPr>
-					<xfrm>
-						<off x="7274875" y="634600" />
-						<ext cx="1182600" cy="346200" />
-					</xfrm>
-					<prstGeom prst="rect">
-						<avLst />
-					</prstGeom>
-					<solidFill>
-						<srgbClr val="000000" />
-					</solidFill>
-					<ln>
-						<noFill />
-					</ln>
-				</spPr>
-				<txBody>
-					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
-						<noAutofit />
-					</bodyPr>
-					<lstStyle />
-					<p>
-						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
-							<spcBef>
-								<spcPts val="0" />
-							</spcBef>
-							<spcAft>
-								<spcPts val="0" />
-							</spcAft>
-							<buNone />
-						</pPr>
-						<r>
-							<rPr lang="en">
-								<solidFill>
-									<srgbClr val="FFFFFF" />
-								</solidFill>
-							</rPr>
-							<t>
-								Set Alt Look
-							</t>
-						</r>
-						<endParaRPr>
-							<solidFill>
-								<srgbClr val="FFFFFF" />
-							</solidFill>
-						</endParaRPr>
+						<endParaRPr dirty="0" />
 					</p>
 				</txBody>
 			</sp>

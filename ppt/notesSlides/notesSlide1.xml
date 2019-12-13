@@ -3,7 +3,7 @@
 	<cSld>
 		<spTree>
 			<nvGrpSpPr>
-				<cNvPr id="1" name="Shape 50" />
+				<cNvPr id="1" name="Shape 85" />
 				<cNvGrpSpPr />
 				<nvPr />
 			</nvGrpSpPr>
@@ -17,7 +17,7 @@
 			</grpSpPr>
 			<sp>
 				<nvSpPr>
-					<cNvPr id="51" name="Google Shape;51;p:notes" />
+					<cNvPr id="86" name="Google Shape;86;g793c037d2a_0_0:notes" />
 					<cNvSpPr>
 						<spLocks noGrp="1" noRot="1" noChangeAspect="1" />
 					</cNvSpPr>
@@ -58,7 +58,7 @@
 			</sp>
 			<sp>
 				<nvSpPr>
-					<cNvPr id="52" name="Google Shape;52;p:notes" />
+					<cNvPr id="87" name="Google Shape;87;g793c037d2a_0_0:notes" />
 					<cNvSpPr txBox="1">
 						<spLocks noGrp="1" />
 					</cNvSpPr>
@@ -90,7 +90,7 @@
 							</spcAft>
 							<buNone />
 						</pPr>
-						<endParaRPr dirty="0" />
+						<endParaRPr />
 					</p>
 				</txBody>
 			</sp>
