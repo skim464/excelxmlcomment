@@ -96,21 +96,13 @@
 						</pPr>
 						<r>
 							<rPr sz="1000" dirty="0">
-								<solidFill>
-									<srgbClr val="000000" />
-								</solidFill>
 								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
 								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-								<sym typeface="Arial" />
 							</rPr>
 							<t>
 								September 01, 2018
 							</t>
 						</r>
-						<endParaRPr sz="1000" dirty="0">
-							<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-						</endParaRPr>
 					</p>
 				</txBody>
 			</sp>
@@ -154,75 +146,75 @@
 							</tabLst>
 						</pPr>
 						<r>
-							<rPr sz="5000" dirty="0">
+							<rPr sz="3600" dirty="0">
+								<solidFill>
+									<schemeClr val="tx1" />
+								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
-								<ea typeface="Georgia" />
-								<cs typeface="Georgia" />
-								<sym typeface="Georgia" />
 							</rPr>
 							<t>
 								Cover headline:  36/38 ITC Charter  Regular
 							</t>
 						</r>
 						<r>
-							<rPr lang="en-US" sz="5000" dirty="0">
+							<rPr lang="en-US" sz="3600" dirty="0">
+								<solidFill>
+									<schemeClr val="tx1" />
+								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
-								<ea typeface="Georgia" />
-								<cs typeface="Georgia" />
-								<sym typeface="Georgia" />
 							</rPr>
 							<t>
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0">
+							<rPr sz="3600" dirty="0">
+								<solidFill>
+									<schemeClr val="tx1" />
+								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
-								<ea typeface="Georgia" />
-								<cs typeface="Georgia" />
-								<sym typeface="Georgia" />
 							</rPr>
 							<t>
 								placer at  prod dolor
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0" err="1">
+							<rPr sz="3600" dirty="0" err="1">
+								<solidFill>
+									<schemeClr val="tx1" />
+								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
-								<ea typeface="Georgia" />
-								<cs typeface="Georgia" />
-								<sym typeface="Georgia" />
 							</rPr>
 							<t>
 								nam
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0">
+							<rPr sz="3600" dirty="0">
+								<solidFill>
+									<schemeClr val="tx1" />
+								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
-								<ea typeface="Georgia" />
-								<cs typeface="Georgia" />
-								<sym typeface="Georgia" />
 							</rPr>
 							<t>
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0" err="1">
+							<rPr sz="3600" dirty="0" err="1">
+								<solidFill>
+									<schemeClr val="tx1" />
+								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
-								<ea typeface="Georgia" />
-								<cs typeface="Georgia" />
-								<sym typeface="Georgia" />
 							</rPr>
 							<t>
 								eim
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0">
+							<rPr sz="3600" dirty="0">
+								<solidFill>
+									<schemeClr val="tx1" />
+								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
-								<ea typeface="Georgia" />
-								<cs typeface="Georgia" />
-								<sym typeface="Georgia" />
 							</rPr>
 							<t>
 								assum
