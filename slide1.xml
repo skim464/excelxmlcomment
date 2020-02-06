@@ -146,9 +146,9 @@
 							</tabLst>
 						</pPr>
 						<r>
-							<rPr sz="5000" dirty="0">
+							<rPr sz="3600" dirty="0">
 								<solidFill>
-									<schemeClr val="txt1" />
+									<schemeClr val="tx1" />
 								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
 							</rPr>
@@ -157,9 +157,9 @@
 							</t>
 						</r>
 						<r>
-							<rPr lang="en-US" sz="5000" dirty="0">
+							<rPr lang="en-US" sz="3600" dirty="0">
 								<solidFill>
-									<schemeClr val="txt1" />
+									<schemeClr val="tx1" />
 								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
 							</rPr>
@@ -167,9 +167,9 @@
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0">
+							<rPr sz="3600" dirty="0">
 								<solidFill>
-									<schemeClr val="txt1" />
+									<schemeClr val="tx1" />
 								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
 							</rPr>
@@ -178,9 +178,9 @@
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0" err="1">
+							<rPr sz="3600" dirty="0" err="1">
 								<solidFill>
-									<schemeClr val="txt1" />
+									<schemeClr val="tx1" />
 								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
 							</rPr>
@@ -189,9 +189,9 @@
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0">
+							<rPr sz="3600" dirty="0">
 								<solidFill>
-									<schemeClr val="txt1" />
+									<schemeClr val="tx1" />
 								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
 							</rPr>
@@ -199,9 +199,9 @@
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0" err="1">
+							<rPr sz="3600" dirty="0" err="1">
 								<solidFill>
-									<schemeClr val="txt1" />
+									<schemeClr val="tx1" />
 								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
 							</rPr>
@@ -210,9 +210,9 @@
 							</t>
 						</r>
 						<r>
-							<rPr sz="5000" dirty="0">
+							<rPr sz="3600" dirty="0">
 								<solidFill>
-									<schemeClr val="txt1" />
+									<schemeClr val="tx1" />
 								</solidFill>
 								<latin typeface="Georgia" panose="02040502050405020303" pitchFamily="18" charset="0" />
 							</rPr>
