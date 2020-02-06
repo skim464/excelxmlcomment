@@ -6,7 +6,7 @@
 		242
 	</TotalTime>
 	<Words>
-		14
+		18
 	</Words>
 	<Application>
 		Microsoft Office PowerPoint
@@ -15,7 +15,7 @@
 		Custom
 	</PresentationFormat>
 	<Paragraphs>
-		1
+		2
 	</Paragraphs>
 	<Slides>
 		1
@@ -41,7 +41,7 @@
 			</variant>
 			<variant>
 				<i4>
-					3
+					4
 				</i4>
 			</variant>
 			<variant>
@@ -67,7 +67,10 @@
 		</vector>
 	</HeadingPairs>
 	<TitlesOfParts>
-		<vector size="5" baseType="lpstr">
+		<vector size="6" baseType="lpstr">
+			<lpstr>
+				Arial
+			</lpstr>
 			<lpstr>
 				Calibri
 			</lpstr>
