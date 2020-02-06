@@ -1,22 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
-	<Template />
+	<Template>
+	</Template>
 	<TotalTime>
 		242
 	</TotalTime>
 	<Words>
-		110
+		14
 	</Words>
 	<Application>
-		Microsoft Macintosh PowerPoint
+		Microsoft Office PowerPoint
 	</Application>
 	<PresentationFormat>
 		Custom
 	</PresentationFormat>
 	<Paragraphs>
-		11
+		1
 	</Paragraphs>
 	<Slides>
-		3
+		1
 	</Slides>
 	<Notes>
 		0
@@ -39,7 +41,7 @@
 			</variant>
 			<variant>
 				<i4>
-					4
+					3
 				</i4>
 			</variant>
 			<variant>
@@ -59,16 +61,13 @@
 			</variant>
 			<variant>
 				<i4>
-					3
+					1
 				</i4>
 			</variant>
 		</vector>
 	</HeadingPairs>
 	<TitlesOfParts>
-		<vector size="8" baseType="lpstr">
-			<lpstr>
-				Arial
-			</lpstr>
+		<vector size="5" baseType="lpstr">
 			<lpstr>
 				Calibri
 			</lpstr>
@@ -80,12 +79,6 @@
 			</lpstr>
 			<lpstr>
 				Office Theme
-			</lpstr>
-			<lpstr>
-				Cover headline:  36/38 ITC Charter  Regular placer at  prod dolor nam eim assum
-			</lpstr>
-			<lpstr>
-				PowerPoint Presentation
 			</lpstr>
 			<lpstr>
 				Cover headline:  36/38 ITC Charter  Regular placer at  prod dolor nam eim assum

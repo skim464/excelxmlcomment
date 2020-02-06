@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <theme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Office Theme">
 	<themeElements>
 		<clrScheme name="Office">
@@ -43,10 +44,10 @@
 				<latin typeface="Calibri" />
 				<ea typeface="" />
 				<cs typeface="" />
-				<font script="Jpan" typeface="&#65325;&#65331; &#65328;&#12468;&#12471;&#12483;&#12463;" />
-				<font script="Hang" typeface="&#47569;&#51008; &#44256;&#46357;" />
-				<font script="Hans" typeface="&#23435;&#20307;" />
-				<font script="Hant" typeface="&#26032;&#32048;&#26126;&#39636;" />
+				<font script="Jpan" typeface="ＭＳ Ｐゴシック" />
+				<font script="Hang" typeface="맑은 고딕" />
+				<font script="Hans" typeface="宋体" />
+				<font script="Hant" typeface="新細明體" />
 				<font script="Arab" typeface="Times New Roman" />
 				<font script="Hebr" typeface="Times New Roman" />
 				<font script="Thai" typeface="Angsana New" />
@@ -77,10 +78,10 @@
 				<latin typeface="Calibri" />
 				<ea typeface="" />
 				<cs typeface="" />
-				<font script="Jpan" typeface="&#65325;&#65331; &#65328;&#12468;&#12471;&#12483;&#12463;" />
-				<font script="Hang" typeface="&#47569;&#51008; &#44256;&#46357;" />
-				<font script="Hans" typeface="&#23435;&#20307;" />
-				<font script="Hant" typeface="&#26032;&#32048;&#26126;&#39636;" />
+				<font script="Jpan" typeface="ＭＳ Ｐゴシック" />
+				<font script="Hang" typeface="맑은 고딕" />
+				<font script="Hans" typeface="宋体" />
+				<font script="Hant" typeface="新細明體" />
 				<font script="Arab" typeface="Arial" />
 				<font script="Hebr" typeface="Arial" />
 				<font script="Thai" typeface="Cordia New" />
