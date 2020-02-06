@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" type="obj" preserve="1">
+	<cSld name="Title and Content">
+		<spTree>
+			<nvGrpSpPr>
+				<cNvPr id="1" name="" />
+				<cNvGrpSpPr />
+				<nvPr />
+			</nvGrpSpPr>
+			<grpSpPr>
+				<xfrm>
+					<off x="0" y="0" />
+					<ext cx="0" cy="0" />
+					<chOff x="0" y="0" />
+					<chExt cx="0" cy="0" />
+				</xfrm>
+			</grpSpPr>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="2" name="Holder 2" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="title" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr lIns="0" tIns="0" rIns="0" bIns="0" />
+					<lstStyle>
+						<lvl1pPr>
+							<defRPr sz="4000" b="0" i="0">
+								<solidFill>
+									<schemeClr val="bg1" />
+								</solidFill>
+								<latin typeface="Times New Roman" />
+								<cs typeface="Times New Roman" />
+							</defRPr>
+						</lvl1pPr>
+					</lstStyle>
+					<p>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="3" name="Holder 3" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="body" idx="1" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr lIns="0" tIns="0" rIns="0" bIns="0" />
+					<lstStyle>
+						<lvl1pPr>
+							<defRPr />
+						</lvl1pPr>
+					</lstStyle>
+					<p>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="4" name="Holder 4" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="ftr" sz="quarter" idx="5" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr lIns="0" tIns="0" rIns="0" bIns="0" />
+					<lstStyle>
+						<lvl1pPr algn="ctr">
+							<defRPr>
+								<solidFill>
+									<schemeClr val="tx1">
+										<tint val="75000" />
+									</schemeClr>
+								</solidFill>
+							</defRPr>
+						</lvl1pPr>
+					</lstStyle>
+					<p>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="5" name="Holder 5" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="dt" sz="half" idx="6" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr lIns="0" tIns="0" rIns="0" bIns="0" />
+					<lstStyle>
+						<lvl1pPr algn="l">
+							<defRPr>
+								<solidFill>
+									<schemeClr val="tx1">
+										<tint val="75000" />
+									</schemeClr>
+								</solidFill>
+							</defRPr>
+						</lvl1pPr>
+					</lstStyle>
+					<p>
+						<fld id="{1D8BD707-D9CF-40AE-B4C6-C98DA3205C09}" type="datetimeFigureOut">
+							<rPr lang="en-US" />
+							<t>
+								2/5/20
+							</t>
+						</fld>
+						<endParaRPr lang="en-US" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="6" name="Holder 6" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="sldNum" sz="quarter" idx="7" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr lIns="0" tIns="0" rIns="0" bIns="0" />
+					<lstStyle>
+						<lvl1pPr algn="r">
+							<defRPr>
+								<solidFill>
+									<schemeClr val="tx1">
+										<tint val="75000" />
+									</schemeClr>
+								</solidFill>
+							</defRPr>
+						</lvl1pPr>
+					</lstStyle>
+					<p>
+						<fld id="{B6F15528-21DE-4FAA-801E-634DDDAF4B2B}" type="slidenum">
+							<t>
+								‹#›
+							</t>
+						</fld>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+		</spTree>
+	</cSld>
+	<clrMapOvr>
+		<masterClrMapping />
+	</clrMapOvr>
+</sldLayout>
