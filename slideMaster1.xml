@@ -308,7 +308,7 @@
             </a:lvl1pPr>
         </p:titleStyle>
         <p:bodyStyle>
-            <a:lvl1pPr marL="457200" indent="-457200" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+            <a:lvl1pPr marL="0" indent="0" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
                 <a:lnSpc>
                     <a:spcPct val="90000"/>
                 </a:lnSpc>
@@ -316,7 +316,7 @@
                     <a:spcPts val="1000"/>
                 </a:spcBef>
                 <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
-                <a:buChar char="•"/>
+                <a:buNone/>
                 <a:defRPr sz="2800" kern="1200">
                     <a:solidFill>
                         <a:schemeClr val="tx1"/>
