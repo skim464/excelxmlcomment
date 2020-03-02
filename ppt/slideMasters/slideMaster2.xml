@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sldMaster xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+	<cSld>
+		<bg>
+			<bgPr>
+				<solidFill>
+					<schemeClr val="lt1" />
+				</solidFill>
+				<effectLst />
+			</bgPr>
+		</bg>
+		<spTree>
+			<nvGrpSpPr>
+				<cNvPr id="1" name="Shape 50" />
+				<cNvGrpSpPr />
+				<nvPr />
+			</nvGrpSpPr>
+			<grpSpPr>
+				<xfrm>
+					<off x="0" y="0" />
+					<ext cx="0" cy="0" />
+					<chOff x="0" y="0" />
+					<chExt cx="0" cy="0" />
+				</xfrm>
+			</grpSpPr>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="51" name="Google Shape;51;p13" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="title" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="442802" y="432001" />
+						<ext cx="11303400" cy="1387200" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+					<noFill />
+					<ln>
+						<noFill />
+					</ln>
+				</spPr>
+				<txBody>
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0" />
+					<lstStyle>
+						<lvl1pPr marR="0" lvl="0" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="85000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="3200" />
+							<buFont typeface="Georgia" />
+							<buNone />
+							<defRPr sz="3200" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Georgia" />
+								<ea typeface="Georgia" />
+								<cs typeface="Georgia" />
+								<sym typeface="Georgia" />
+							</defRPr>
+						</lvl1pPr>
+						<lvl2pPr lvl="1" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1400" />
+							<buNone />
+							<defRPr sz="1800" />
+						</lvl2pPr>
+						<lvl3pPr lvl="2" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1400" />
+							<buNone />
+							<defRPr sz="1800" />
+						</lvl3pPr>
+						<lvl4pPr lvl="3" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1400" />
+							<buNone />
+							<defRPr sz="1800" />
+						</lvl4pPr>
+						<lvl5pPr lvl="4" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1400" />
+							<buNone />
+							<defRPr sz="1800" />
+						</lvl5pPr>
+						<lvl6pPr lvl="5" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1400" />
+							<buNone />
+							<defRPr sz="1800" />
+						</lvl6pPr>
+						<lvl7pPr lvl="6" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1400" />
+							<buNone />
+							<defRPr sz="1800" />
+						</lvl7pPr>
+						<lvl8pPr lvl="7" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1400" />
+							<buNone />
+							<defRPr sz="1800" />
+						</lvl8pPr>
+						<lvl9pPr lvl="8" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1400" />
+							<buNone />
+							<defRPr sz="1800" />
+						</lvl9pPr>
+					</lstStyle>
+					<p>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="52" name="Google Shape;52;p13" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="body" idx="1" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="442802" y="2103438" />
+						<ext cx="11303400" cy="4068900" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+					<noFill />
+					<ln>
+						<noFill />
+					</ln>
+				</spPr>
+				<txBody>
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0" />
+					<lstStyle>
+						<lvl1pPr marL="457200" marR="0" lvl="0" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="•" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl1pPr>
+						<lvl2pPr marL="914400" marR="0" lvl="1" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="600" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="–" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl2pPr>
+						<lvl3pPr marL="1371600" marR="0" lvl="2" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="600" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="•" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl3pPr>
+						<lvl4pPr marL="1828800" marR="0" lvl="3" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="600" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="–" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl4pPr>
+						<lvl5pPr marL="2286000" marR="0" lvl="4" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="600" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="•" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl5pPr>
+						<lvl6pPr marL="2743200" marR="0" lvl="5" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="600" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="–" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl6pPr>
+						<lvl7pPr marL="3200400" marR="0" lvl="6" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="600" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="•" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl7pPr>
+						<lvl8pPr marL="3657600" marR="0" lvl="7" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="600" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="–" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl8pPr>
+						<lvl9pPr marL="4114800" marR="0" lvl="8" indent="-330200" algn="l" rtl="0">
+							<lnSpc>
+								<spcPct val="100000" />
+							</lnSpc>
+							<spcBef>
+								<spcPts val="600" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="600" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1600" />
+							<buFont typeface="Arial" />
+							<buChar char="•" />
+							<defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl9pPr>
+					</lstStyle>
+					<p>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="53" name="Google Shape;53;p13" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="sldNum" idx="12" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="8216433" y="6492240" />
+						<ext cx="3529800" cy="137100" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+					<noFill />
+					<ln>
+						<noFill />
+					</ln>
+				</spPr>
+				<txBody>
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="b" anchorCtr="0">
+						<noAutofit />
+					</bodyPr>
+					<lstStyle>
+						<lvl1pPr marL="0" marR="0" lvl="0" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl1pPr>
+						<lvl2pPr marL="0" marR="0" lvl="1" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl2pPr>
+						<lvl3pPr marL="0" marR="0" lvl="2" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl3pPr>
+						<lvl4pPr marL="0" marR="0" lvl="3" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl4pPr>
+						<lvl5pPr marL="0" marR="0" lvl="4" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl5pPr>
+						<lvl6pPr marL="0" marR="0" lvl="5" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl6pPr>
+						<lvl7pPr marL="0" marR="0" lvl="6" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl7pPr>
+						<lvl8pPr marL="0" marR="0" lvl="7" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl8pPr>
+						<lvl9pPr marL="0" marR="0" lvl="8" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<buNone />
+							<defRPr sz="750" b="0" i="0" u="none" strike="noStrike" cap="none">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+								<latin typeface="Arial" />
+								<ea typeface="Arial" />
+								<cs typeface="Arial" />
+								<sym typeface="Arial" />
+							</defRPr>
+						</lvl9pPr>
+					</lstStyle>
+					<p>
+						<pPr marL="0" lvl="0" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buNone />
+						</pPr>
+						<fld id="{00000000-1234-1234-1234-123412341234}" type="slidenum">
+							<rPr lang="en" />
+							<t>
+								‹#›
+							</t>
+						</fld>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="54" name="Google Shape;54;p13" />
+					<cNvSpPr txBox="1" />
+					<nvPr />
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="442802" y="6431280" />
+						<ext cx="5472300" cy="137100" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+					<noFill />
+					<ln>
+						<noFill />
+					</ln>
+				</spPr>
+				<txBody>
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="b" anchorCtr="0">
+						<noAutofit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1100" />
+							<buFont typeface="Arial" />
+							<buNone />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1100" b="1">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+							</rPr>
+							<t>
+								PwC
+							</t>
+						</r>
+						<r>
+							<rPr lang="en" sz="1100">
+								<solidFill>
+									<schemeClr val="dk1" />
+								</solidFill>
+							</rPr>
+							<t>
+							</t>
+						</r>
+						<r>
+							<rPr lang="en" sz="1100">
+								<solidFill>
+									<schemeClr val="accent6" />
+								</solidFill>
+							</rPr>
+							<t>
+								|
+							</t>
+						</r>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+		</spTree>
+	</cSld>
+	<clrMap bg1="lt1" tx1="dk1" bg2="dk2" tx2="lt2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink" />
+	<sldLayoutIdLst>
+		<sldLayoutId id="2147483659" r:id="rId1" />
+		<sldLayoutId id="2147483660" r:id="rId2" />
+		<sldLayoutId id="2147483661" r:id="rId3" />
+		<sldLayoutId id="2147483662" r:id="rId4" />
+		<sldLayoutId id="2147483663" r:id="rId5" />
+		<sldLayoutId id="2147483664" r:id="rId6" />
+		<sldLayoutId id="2147483666" r:id="rId7" />
+		<sldLayoutId id="2147483667" r:id="rId8" />
+		<sldLayoutId id="2147483668" r:id="rId9" />
+		<sldLayoutId id="2147483669" r:id="rId10" />
+		<sldLayoutId id="2147483670" r:id="rId11" />
+		<sldLayoutId id="2147483671" r:id="rId12" />
+		<sldLayoutId id="2147483672" r:id="rId13" />
+		<sldLayoutId id="2147483673" r:id="rId14" />
+		<sldLayoutId id="2147483674" r:id="rId15" />
+		<sldLayoutId id="2147483675" r:id="rId16" />
+		<sldLayoutId id="2147483676" r:id="rId17" />
+		<sldLayoutId id="2147483677" r:id="rId18" />
+		<sldLayoutId id="2147483678" r:id="rId19" />
+		<sldLayoutId id="2147483679" r:id="rId20" />
+		<sldLayoutId id="2147483682" r:id="rId21" />
+		<sldLayoutId id="2147483683" r:id="rId22" />
+		<sldLayoutId id="2147483684" r:id="rId23" />
+		<sldLayoutId id="2147483685" r:id="rId24" />
+		<sldLayoutId id="2147483686" r:id="rId25" />
+		<sldLayoutId id="2147483687" r:id="rId26" />
+		<sldLayoutId id="2147483688" r:id="rId27" />
+		<sldLayoutId id="2147483689" r:id="rId28" />
+		<sldLayoutId id="2147483690" r:id="rId29" />
+		<sldLayoutId id="2147483691" r:id="rId30" />
+		<sldLayoutId id="2147483692" r:id="rId31" />
+		<sldLayoutId id="2147483693" r:id="rId32" />
+		<sldLayoutId id="2147483694" r:id="rId33" />
+		<sldLayoutId id="2147483695" r:id="rId34" />
+		<sldLayoutId id="2147483696" r:id="rId35" />
+		<sldLayoutId id="2147483697" r:id="rId36" />
+		<sldLayoutId id="2147483698" r:id="rId37" />
+		<sldLayoutId id="2147483699" r:id="rId38" />
+		<sldLayoutId id="2147483700" r:id="rId39" />
+		<sldLayoutId id="2147483701" r:id="rId40" />
+		<sldLayoutId id="2147483702" r:id="rId41" />
+		<sldLayoutId id="2147483703" r:id="rId42" />
+		<sldLayoutId id="2147483704" r:id="rId43" />
+		<sldLayoutId id="2147483705" r:id="rId44" />
+		<sldLayoutId id="2147483706" r:id="rId45" />
+		<sldLayoutId id="2147483707" r:id="rId46" />
+		<sldLayoutId id="2147483708" r:id="rId47" />
+		<sldLayoutId id="2147483709" r:id="rId48" />
+		<sldLayoutId id="2147483710" r:id="rId49" />
+		<sldLayoutId id="2147483712" r:id="rId50" />
+		<sldLayoutId id="2147483713" r:id="rId51" />
+		<sldLayoutId id="2147483714" r:id="rId52" />
+		<sldLayoutId id="2147483715" r:id="rId53" />
+		<sldLayoutId id="2147483716" r:id="rId54" />
+		<sldLayoutId id="2147483717" r:id="rId55" />
+		<sldLayoutId id="2147483718" r:id="rId56" />
+		<sldLayoutId id="2147483719" r:id="rId57" />
+		<sldLayoutId id="2147483720" r:id="rId58" />
+		<sldLayoutId id="2147483721" r:id="rId59" />
+		<sldLayoutId id="2147483722" r:id="rId60" />
+		<sldLayoutId id="2147483723" r:id="rId61" />
+		<sldLayoutId id="2147483725" r:id="rId62" />
+	</sldLayoutIdLst>
+	<hf sldNum="0" hdr="0" ftr="0" dt="0" />
+	<txStyles>
+		<titleStyle>
+			<defPPr marR="0" lvl="0" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+			</defPPr>
+			<lvl1pPr marR="0" lvl="0" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl1pPr>
+			<lvl2pPr marR="0" lvl="1" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl2pPr>
+			<lvl3pPr marR="0" lvl="2" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl3pPr>
+			<lvl4pPr marR="0" lvl="3" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl4pPr>
+			<lvl5pPr marR="0" lvl="4" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl5pPr>
+			<lvl6pPr marR="0" lvl="5" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl6pPr>
+			<lvl7pPr marR="0" lvl="6" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl7pPr>
+			<lvl8pPr marR="0" lvl="7" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl8pPr>
+			<lvl9pPr marR="0" lvl="8" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl9pPr>
+		</titleStyle>
+		<bodyStyle>
+			<defPPr marR="0" lvl="0" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+			</defPPr>
+			<lvl1pPr marR="0" lvl="0" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl1pPr>
+			<lvl2pPr marR="0" lvl="1" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl2pPr>
+			<lvl3pPr marR="0" lvl="2" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl3pPr>
+			<lvl4pPr marR="0" lvl="3" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl4pPr>
+			<lvl5pPr marR="0" lvl="4" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl5pPr>
+			<lvl6pPr marR="0" lvl="5" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl6pPr>
+			<lvl7pPr marR="0" lvl="6" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl7pPr>
+			<lvl8pPr marR="0" lvl="7" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl8pPr>
+			<lvl9pPr marR="0" lvl="8" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl9pPr>
+		</bodyStyle>
+		<otherStyle>
+			<defPPr marR="0" lvl="0" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+			</defPPr>
+			<lvl1pPr marR="0" lvl="0" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl1pPr>
+			<lvl2pPr marR="0" lvl="1" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl2pPr>
+			<lvl3pPr marR="0" lvl="2" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl3pPr>
+			<lvl4pPr marR="0" lvl="3" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl4pPr>
+			<lvl5pPr marR="0" lvl="4" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl5pPr>
+			<lvl6pPr marR="0" lvl="5" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl6pPr>
+			<lvl7pPr marR="0" lvl="6" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl7pPr>
+			<lvl8pPr marR="0" lvl="7" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl8pPr>
+			<lvl9pPr marR="0" lvl="8" algn="l" rtl="0">
+				<lnSpc>
+					<spcPct val="100000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="0" />
+				</spcBef>
+				<spcAft>
+					<spcPts val="0" />
+				</spcAft>
+				<buClr>
+					<srgbClr val="000000" />
+				</buClr>
+				<buFont typeface="Arial" />
+				<defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+					<solidFill>
+						<srgbClr val="000000" />
+					</solidFill>
+					<latin typeface="Arial" />
+					<ea typeface="Arial" />
+					<cs typeface="Arial" />
+					<sym typeface="Arial" />
+				</defRPr>
+			</lvl9pPr>
+		</otherStyle>
+	</txStyles>
+	<extLst>
+		<ext uri="{27BBF7A9-308A-43DC-89C8-2F10F3537804}">
+			<sldGuideLst xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main">
+				<guide id="1" pos="3839">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="2" pos="279">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="3" pos="7399">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="4" pos="3952">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="5" pos="3726">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="6" orient="horz" pos="3888">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="7" pos="2725">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="8" pos="2501">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="9" pos="4951">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="10" pos="5176">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="11" orient="horz" pos="2160">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="12" orient="horz" pos="1325">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="13" orient="horz" pos="1146">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+				<guide id="14" orient="horz" pos="270">
+					<clr>
+						<srgbClr val="F26B43" />
+					</clr>
+				</guide>
+			</sldGuideLst>
+		</ext>
+	</extLst>
+</sldMaster>

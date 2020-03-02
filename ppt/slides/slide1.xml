@@ -1,0 +1,4913 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+	<cSld>
+		<spTree>
+			<nvGrpSpPr>
+				<cNvPr id="1" name="Shape 966" />
+				<cNvGrpSpPr />
+				<nvPr />
+			</nvGrpSpPr>
+			<grpSpPr>
+				<xfrm>
+					<off x="0" y="0" />
+					<ext cx="0" cy="0" />
+					<chOff x="0" y="0" />
+					<chExt cx="0" cy="0" />
+				</xfrm>
+			</grpSpPr>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="967" name="Google Shape;967;p98" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="body" idx="1" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="442801" y="2103450" />
+						<ext cx="7416600" cy="4068900" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+						<noAutofit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1100" />
+							<buFont typeface="Arial" />
+							<buNone />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1200" />
+							<t>
+								Our team has significant experience transitioning new clients. We know what it takes to work efficiently and effectively. As such, our transition will include the following:
+							</t>
+						</r>
+						<endParaRPr sz="1200" />
+					</p>
+					<p>
+						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="700" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1200" />
+							<buChar char="•" />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1200" />
+							<t>
+								On-site leadership by our core team to finalize our timeline, review work papers, and handle other administrative requirements
+							</t>
+						</r>
+						<endParaRPr sz="1200" />
+					</p>
+					<p>
+						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1200" />
+							<buChar char="•" />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1200" />
+							<t>
+								Weekly status updates
+							</t>
+						</r>
+						<endParaRPr sz="1200" />
+					</p>
+					<p>
+						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1200" />
+							<buChar char="•" />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1200" />
+							<t>
+								Training on our collaborative technology tool (Tax Engagement Center) for your team
+							</t>
+						</r>
+						<endParaRPr sz="1200" />
+					</p>
+					<p>
+						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1200" />
+							<buChar char="•" />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1200" />
+							<t>
+								Implementation of our processing technology
+							</t>
+						</r>
+						<endParaRPr sz="1200" />
+					</p>
+					<p>
+						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1200" />
+							<buChar char="•" />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1200" />
+							<t>
+								Review and finalization of our tax compliance calendar
+							</t>
+						</r>
+						<endParaRPr sz="1200" />
+					</p>
+					<p>
+						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buSzPts val="1200" />
+							<buChar char="•" />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1200" />
+							<t>
+								Tax diagnostic review of prior-year positions and work papers, with a focus on tax planning ideas that you conclude should be implemented as soon as possible
+							</t>
+						</r>
+						<endParaRPr sz="1200" />
+					</p>
+					<p>
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="700" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="700" />
+							</spcAft>
+							<buClr>
+								<schemeClr val="dk1" />
+							</buClr>
+							<buSzPts val="1100" />
+							<buFont typeface="Arial" />
+							<buNone />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="1200" />
+							<t>
+								We’ve developed a preliminary transition plan and outlined that plan below. We welcome your input. Our plan assumes that you will select your advisor on or before &lt;&lt;Date&gt;&gt;.
+							</t>
+						</r>
+						<endParaRPr sz="1200" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="968" name="Google Shape;968;p98" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="title" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="442802" y="430514" />
+						<ext cx="11303400" cy="502800" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+						<noAutofit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buNone />
+						</pPr>
+						<r>
+							<rPr lang="en" sz="2200" />
+							<t>
+								Explain your approach and timing to transitioning this engagement.
+							</t>
+						</r>
+						<endParaRPr sz="2200" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="969" name="Google Shape;969;p98" />
+					<cNvSpPr txBox="1">
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="sldNum" idx="12" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="8216433" y="6492240" />
+						<ext cx="3529800" cy="137100" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="b" anchorCtr="0">
+						<noAutofit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<pPr marL="0" lvl="0" indent="0" algn="r" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buClr>
+								<srgbClr val="000000" />
+							</buClr>
+							<buFont typeface="Arial" />
+							<buNone />
+						</pPr>
+						<fld id="{00000000-1234-1234-1234-123412341234}" type="slidenum">
+							<rPr lang="en" />
+							<t>
+								1
+							</t>
+						</fld>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+			<graphicFrame>
+				<nvGraphicFramePr>
+					<cNvPr id="970" name="Google Shape;970;p98" />
+					<cNvGraphicFramePr />
+					<nvPr />
+				</nvGraphicFramePr>
+				<xfrm>
+					<off x="442822" y="4547988" />
+					<ext cx="7416600" cy="1672080" />
+				</xfrm>
+				<graphic>
+					<graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+						<tbl>
+							<tblPr>
+								<noFill />
+								<tableStyleId>
+									{01607013-C9FD-4DBC-82BD-F995752D8485}
+								</tableStyleId>
+							</tblPr>
+							<tblGrid>
+								<gridCol w="851550">
+									<extLst>
+										<ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+											<colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20000" />
+										</ext>
+									</extLst>
+								</gridCol>
+								<gridCol w="6565050">
+									<extLst>
+										<ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+											<colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20001" />
+										</ext>
+									</extLst>
+								</gridCol>
+							</tblGrid>
+							<tr h="215125">
+								<tc>
+									<txBody>
+										<bodyPr />
+										<lstStyle />
+										<p>
+											<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buClr>
+													<srgbClr val="DEDEDE" />
+												</buClr>
+												<buSzPts val="700" />
+												<buFont typeface="Georgia" />
+												<buNone />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" b="1" u="none" strike="noStrike" cap="none">
+													<solidFill>
+														<srgbClr val="FFFFFF" />
+													</solidFill>
+												</rPr>
+												<t>
+													Activity
+												</t>
+											</r>
+											<endParaRPr sz="900" b="1">
+												<solidFill>
+													<srgbClr val="FFFFFF" />
+												</solidFill>
+											</endParaRPr>
+										</p>
+									</txBody>
+									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
+										<lnL w="9525" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnL>
+										<lnR w="9525" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnR>
+										<lnT w="9525" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnT>
+										<lnB w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnB>
+										<solidFill>
+											<srgbClr val="EB8C00" />
+										</solidFill>
+									</tcPr>
+								</tc>
+								<tc>
+									<txBody>
+										<bodyPr />
+										<lstStyle />
+										<p>
+											<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buClr>
+													<srgbClr val="DEDEDE" />
+												</buClr>
+												<buSzPts val="700" />
+												<buFont typeface="Georgia" />
+												<buNone />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" b="1" u="none" strike="noStrike" cap="none">
+													<solidFill>
+														<srgbClr val="FFFFFF" />
+													</solidFill>
+												</rPr>
+												<t>
+													Anticipated timing and notes
+												</t>
+											</r>
+											<endParaRPr sz="900" b="1">
+												<solidFill>
+													<srgbClr val="FFFFFF" />
+												</solidFill>
+											</endParaRPr>
+										</p>
+									</txBody>
+									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
+										<lnL w="9525" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnL>
+										<lnR w="9525" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnR>
+										<lnT w="9525" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnT>
+										<lnB w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnB>
+										<solidFill>
+											<srgbClr val="D93954" />
+										</solidFill>
+									</tcPr>
+								</tc>
+								<extLst>
+									<ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+										<rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10000" />
+									</ext>
+								</extLst>
+							</tr>
+							<tr h="608075">
+								<tc>
+									<txBody>
+										<bodyPr />
+										<lstStyle />
+										<p>
+											<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buClr>
+													<srgbClr val="000000" />
+												</buClr>
+												<buSzPts val="700" />
+												<buFont typeface="Georgia" />
+												<buNone />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" />
+												<t>
+													&lt;&lt;Month DD
+												</t>
+											</r>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													(
+												</t>
+											</r>
+											<r>
+												<rPr lang="en" sz="700" />
+												<t>
+													Day
+												</t>
+											</r>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													) through
+												</t>
+											</r>
+											<r>
+												<rPr lang="en" sz="700" />
+												<t>
+													Month DD&gt;&gt;
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+									</txBody>
+									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
+										<lnL w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnL>
+										<lnR w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnR>
+										<lnT w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnT>
+										<lnB w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnB>
+									</tcPr>
+								</tc>
+								<tc>
+									<txBody>
+										<bodyPr />
+										<lstStyle />
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													On-site Day One transition
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													Coordination with prior accountants to obtain work papers and electronic transfer of prior-year tax files
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													Technology discussion
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													Finalize engagement letters
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													Begin drafting first-year tax reporting calendar
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+									</txBody>
+									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
+										<lnL w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnL>
+										<lnR w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnR>
+										<lnT w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="FFFFFF" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnT>
+										<lnB w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnB>
+									</tcPr>
+								</tc>
+								<extLst>
+									<ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+										<rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10001" />
+									</ext>
+								</extLst>
+							</tr>
+							<tr h="411600">
+								<tc>
+									<txBody>
+										<bodyPr />
+										<lstStyle />
+										<p>
+											<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buClr>
+													<srgbClr val="000000" />
+												</buClr>
+												<buSzPts val="700" />
+												<buFont typeface="Georgia" />
+												<buNone />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													To be determined
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+									</txBody>
+									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
+										<lnL w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnL>
+										<lnR w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnR>
+										<lnT w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnT>
+										<lnB w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnB>
+									</tcPr>
+								</tc>
+								<tc>
+									<txBody>
+										<bodyPr />
+										<lstStyle />
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													Meeting with
+												</t>
+											</r>
+											<r>
+												<rPr lang="en" sz="700" />
+												<t>
+													&lt;&lt;ClientShort&gt;&gt;
+												</t>
+											</r>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													tax team to discuss compensation, distributions, review of shareholder agreements, distribution policies, buy-sell agreements, benefits, etc.
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													Meetings/calls with each of the shareholders
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+									</txBody>
+									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
+										<lnL w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnL>
+										<lnR w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnR>
+										<lnT w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnT>
+										<lnB w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnB>
+									</tcPr>
+								</tc>
+								<extLst>
+									<ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+										<rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10002" />
+									</ext>
+								</extLst>
+							</tr>
+							<tr h="313350">
+								<tc>
+									<txBody>
+										<bodyPr />
+										<lstStyle />
+										<p>
+											<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buClr>
+													<srgbClr val="000000" />
+												</buClr>
+												<buSzPts val="700" />
+												<buFont typeface="Georgia" />
+												<buNone />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													To be determined
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+									</txBody>
+									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
+										<lnL w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnL>
+										<lnR w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnR>
+										<lnT w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnT>
+										<lnB w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnB>
+									</tcPr>
+								</tc>
+								<tc>
+									<txBody>
+										<bodyPr />
+										<lstStyle />
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													Attendance at shareholder meetings
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+										<p>
+											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
+												<lnSpc>
+													<spcPct val="100000" />
+												</lnSpc>
+												<spcBef>
+													<spcPts val="0" />
+												</spcBef>
+												<spcAft>
+													<spcPts val="0" />
+												</spcAft>
+												<buSzPts val="700" />
+												<buChar char="●" />
+											</pPr>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													Global team introductions (visits to
+												</t>
+											</r>
+											<r>
+												<rPr lang="en" sz="700">
+													<solidFill>
+														<srgbClr val="000000" />
+													</solidFill>
+												</rPr>
+												<t>
+													&lt;&lt;ClientShort&gt;&gt;
+												</t>
+											</r>
+											<r>
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<t>
+													locations internationally)
+												</t>
+											</r>
+											<endParaRPr sz="900" />
+										</p>
+									</txBody>
+									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
+										<lnL w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnL>
+										<lnR w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnR>
+										<lnT w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnT>
+										<lnB w="28575" cap="flat" cmpd="sng">
+											<solidFill>
+												<srgbClr val="F3F3F3" />
+											</solidFill>
+											<prstDash val="solid" />
+											<round />
+											<headEnd type="none" w="sm" len="sm" />
+											<tailEnd type="none" w="sm" len="sm" />
+										</lnB>
+									</tcPr>
+								</tc>
+								<extLst>
+									<ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+										<rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10003" />
+									</ext>
+								</extLst>
+							</tr>
+						</tbl>
+					</graphicData>
+				</graphic>
+			</graphicFrame>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="971" name="Google Shape;971;p98" />
+					<cNvSpPr />
+					<nvPr />
+				</nvSpPr>
+				<spPr>
+					<xfrm rot="8428146">
+						<off x="10669022" y="4319353" />
+						<ext cx="961517" cy="961517" />
+					</xfrm>
+					<prstGeom prst="ellipse">
+						<avLst />
+					</prstGeom>
+					<solidFill>
+						<srgbClr val="F3F3F3" />
+					</solidFill>
+					<ln>
+						<noFill />
+					</ln>
+				</spPr>
+				<txBody>
+					<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
+						<noAutofit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+							<spcBef>
+								<spcPts val="0" />
+							</spcBef>
+							<spcAft>
+								<spcPts val="0" />
+							</spcAft>
+							<buNone />
+						</pPr>
+						<endParaRPr />
+					</p>
+				</txBody>
+			</sp>
+			<grpSp>
+				<nvGrpSpPr>
+					<cNvPr id="972" name="Google Shape;972;p98" />
+					<cNvGrpSpPr />
+					<nvPr />
+				</nvGrpSpPr>
+				<grpSpPr>
+					<xfrm rot="8428655">
+						<off x="8387304" y="2107749" />
+						<ext cx="3422658" cy="3726857" />
+						<chOff x="5014700" y="2742775" />
+						<chExt cx="3422550" cy="3726740" />
+					</xfrm>
+				</grpSpPr>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="973" name="Google Shape;973;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="5706350" y="3566075" />
+							<ext cx="2730900" cy="2730900" />
+						</xfrm>
+						<prstGeom prst="ellipse">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="F3F3F3" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr />
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="974" name="Google Shape;974;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="6379975" y="2742775" />
+							<ext cx="1968900" cy="1968900" />
+						</xfrm>
+						<prstGeom prst="ellipse">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="F3F3F3" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr />
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="975" name="Google Shape;975;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="5014700" y="3378275" />
+							<ext cx="1968900" cy="1968900" />
+						</xfrm>
+						<prstGeom prst="ellipse">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="F3F3F3" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr />
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="976" name="Google Shape;976;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="5640953" y="4500615" />
+							<ext cx="1968900" cy="1968900" />
+						</xfrm>
+						<prstGeom prst="ellipse">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="F3F3F3" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr />
+						</p>
+					</txBody>
+				</sp>
+			</grpSp>
+			<grpSp>
+				<nvGrpSpPr>
+					<cNvPr id="977" name="Google Shape;977;p98" />
+					<cNvGrpSpPr />
+					<nvPr />
+				</nvGrpSpPr>
+				<grpSpPr>
+					<xfrm>
+						<off x="8032778" y="2806384" />
+						<ext cx="4343110" cy="2171104" />
+						<chOff x="5356225" y="4852988" />
+						<chExt cx="8139263" cy="4135437" />
+					</xfrm>
+				</grpSpPr>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="978" name="Google Shape;978;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="6069013" y="8439150" />
+							<ext cx="5741990" cy="549275" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="1457" h="140" extrusionOk="0">
+									<moveTo>
+										<pt x="1436" y="140" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="21" y="140" />
+										<pt x="21" y="140" />
+										<pt x="21" y="140" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="6" y="140" />
+										<pt x="0" y="120" />
+										<pt x="13" y="112" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="188" y="0" />
+										<pt x="188" y="0" />
+										<pt x="188" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="1268" y="0" />
+										<pt x="1268" y="0" />
+										<pt x="1268" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="1444" y="112" />
+										<pt x="1444" y="112" />
+										<pt x="1444" y="112" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="1457" y="120" />
+										<pt x="1451" y="140" />
+										<pt x="1436" y="140" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="7D7D7D" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="979" name="Google Shape;979;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="6810375" y="4852988" />
+							<ext cx="4256088" cy="2824162" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="1080" h="720" extrusionOk="0">
+									<moveTo>
+										<pt x="1080" y="60" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="1080" y="720" />
+										<pt x="1080" y="720" />
+										<pt x="1080" y="720" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="720" />
+										<pt x="0" y="720" />
+										<pt x="0" y="720" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="60" />
+										<pt x="0" y="60" />
+										<pt x="0" y="60" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="27" />
+										<pt x="27" y="0" />
+										<pt x="60" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="1020" y="0" />
+										<pt x="1020" y="0" />
+										<pt x="1020" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="1054" y="0" />
+										<pt x="1080" y="27" />
+										<pt x="1080" y="60" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="7D7D7D" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="980" name="Google Shape;980;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="10448925" y="5559425" />
+							<ext cx="617538" cy="1093788" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="389" h="689" extrusionOk="0">
+									<moveTo>
+										<pt x="389" y="0" />
+									</moveTo>
+									<lnTo>
+										<pt x="389" y="301" />
+									</lnTo>
+									<lnTo>
+										<pt x="0" y="689" />
+									</lnTo>
+									<lnTo>
+										<pt x="0" y="388" />
+									</lnTo>
+									<lnTo>
+										<pt x="389" y="0" />
+									</lnTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="464646" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="981" name="Google Shape;981;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="6810375" y="4852988" />
+							<ext cx="1052513" cy="984250" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="267" h="251" extrusionOk="0">
+									<moveTo>
+										<pt x="267" y="2" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="267" y="140" />
+										<pt x="156" y="251" />
+										<pt x="18" y="251" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="12" y="251" />
+										<pt x="6" y="251" />
+										<pt x="0" y="250" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="60" />
+										<pt x="0" y="60" />
+										<pt x="0" y="60" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="27" />
+										<pt x="27" y="0" />
+										<pt x="60" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="267" y="0" />
+										<pt x="267" y="0" />
+										<pt x="267" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="267" y="1" />
+										<pt x="267" y="1" />
+										<pt x="267" y="2" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="464646" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="982" name="Google Shape;982;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7046913" y="5087938" />
+							<ext cx="3783000" cy="2354400" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFB600" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="983" name="Google Shape;983;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="5943600" y="7677150" />
+							<ext cx="5989638" cy="549275" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="3773" h="346" extrusionOk="0">
+									<moveTo>
+										<pt x="3773" y="346" />
+									</moveTo>
+									<lnTo>
+										<pt x="0" y="346" />
+									</lnTo>
+									<lnTo>
+										<pt x="546" y="0" />
+									</lnTo>
+									<lnTo>
+										<pt x="3227" y="0" />
+									</lnTo>
+									<lnTo>
+										<pt x="3773" y="346" />
+									</lnTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="F3F3F3" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="984" name="Google Shape;984;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="5943600" y="8226425" />
+							<ext cx="5989640" cy="234950" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="1520" h="60" extrusionOk="0">
+									<moveTo>
+										<pt x="1460" y="60" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="60" y="60" />
+										<pt x="60" y="60" />
+										<pt x="60" y="60" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="27" y="60" />
+										<pt x="0" y="33" />
+										<pt x="0" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="0" />
+										<pt x="0" y="0" />
+										<pt x="0" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="1520" y="0" />
+										<pt x="1520" y="0" />
+										<pt x="1520" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="1520" y="0" />
+										<pt x="1520" y="0" />
+										<pt x="1520" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="1520" y="33" />
+										<pt x="1494" y="60" />
+										<pt x="1460" y="60" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="985" name="Google Shape;985;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="8386763" y="8226425" />
+							<ext cx="1103313" cy="117475" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="280" h="30" extrusionOk="0">
+									<moveTo>
+										<pt x="250" y="30" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="30" y="30" />
+										<pt x="30" y="30" />
+										<pt x="30" y="30" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="14" y="30" />
+										<pt x="0" y="17" />
+										<pt x="0" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="0" />
+										<pt x="0" y="0" />
+										<pt x="0" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="280" y="0" />
+										<pt x="280" y="0" />
+										<pt x="280" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="280" y="0" />
+										<pt x="280" y="0" />
+										<pt x="280" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="280" y="17" />
+										<pt x="267" y="30" />
+										<pt x="250" y="30" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="000000" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="986" name="Google Shape;986;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7993063" y="7975600" />
+							<ext cx="473100" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="987" name="Google Shape;987;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="8474075" y="7794625" />
+							<ext cx="1395300" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="988" name="Google Shape;988;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="6573838" y="6397625" />
+							<ext cx="473100" cy="1641600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="989" name="Google Shape;989;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7046913" y="6829425" />
+							<ext cx="473100" cy="1209600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="EB8C00" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="990" name="Google Shape;990;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7519988" y="7218363" />
+							<ext cx="473100" cy="820800" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DB536A" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="991" name="Google Shape;991;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7599363" y="5514975" />
+							<ext cx="787400" cy="785813" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="200" h="200" extrusionOk="0">
+									<moveTo>
+										<pt x="200" y="100" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="200" y="130" />
+										<pt x="187" y="157" />
+										<pt x="166" y="175" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="148" y="190" />
+										<pt x="125" y="200" />
+										<pt x="100" y="200" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="75" y="200" />
+										<pt x="53" y="190" />
+										<pt x="35" y="175" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="14" y="157" />
+										<pt x="0" y="130" />
+										<pt x="0" y="100" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="44" />
+										<pt x="45" y="0" />
+										<pt x="100" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="156" y="0" />
+										<pt x="200" y="44" />
+										<pt x="200" y="100" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="7D7D7D" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="992" name="Google Shape;992;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7535863" y="5453063" />
+							<ext cx="914400" cy="909638" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="232" h="232" extrusionOk="0">
+									<moveTo>
+										<pt x="116" y="16" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="172" y="16" />
+										<pt x="216" y="60" />
+										<pt x="216" y="116" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="216" y="146" />
+										<pt x="203" y="173" />
+										<pt x="182" y="191" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="164" y="206" />
+										<pt x="141" y="216" />
+										<pt x="116" y="216" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="91" y="216" />
+										<pt x="69" y="206" />
+										<pt x="51" y="191" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="30" y="173" />
+										<pt x="16" y="146" />
+										<pt x="16" y="116" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="16" y="60" />
+										<pt x="61" y="16" />
+										<pt x="116" y="16" />
+									</cubicBezTo>
+									<close />
+									<moveTo>
+										<pt x="116" y="0" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="52" y="0" />
+										<pt x="0" y="52" />
+										<pt x="0" y="116" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="149" />
+										<pt x="15" y="181" />
+										<pt x="41" y="203" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="62" y="222" />
+										<pt x="88" y="232" />
+										<pt x="116" y="232" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="144" y="232" />
+										<pt x="171" y="222" />
+										<pt x="192" y="203" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="218" y="181" />
+										<pt x="232" y="149" />
+										<pt x="232" y="116" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="232" y="52" />
+										<pt x="180" y="0" />
+										<pt x="116" y="0" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="993" name="Google Shape;993;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7737475" y="6021388" />
+							<ext cx="515938" cy="279400" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="131" h="71" extrusionOk="0">
+									<moveTo>
+										<pt x="131" y="46" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="113" y="61" />
+										<pt x="90" y="71" />
+										<pt x="65" y="71" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="40" y="71" />
+										<pt x="18" y="61" />
+										<pt x="0" y="46" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="8" y="20" />
+										<pt x="32" y="0" />
+										<pt x="61" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="69" y="0" />
+										<pt x="69" y="0" />
+										<pt x="69" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="98" y="0" />
+										<pt x="123" y="20" />
+										<pt x="131" y="46" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="994" name="Google Shape;994;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7870825" y="5661025" />
+							<ext cx="252413" cy="314325" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="64" h="80" extrusionOk="0">
+									<moveTo>
+										<pt x="32" y="80" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="32" y="80" />
+										<pt x="32" y="80" />
+										<pt x="32" y="80" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="14" y="80" />
+										<pt x="0" y="65" />
+										<pt x="0" y="48" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="32" />
+										<pt x="0" y="32" />
+										<pt x="0" y="32" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="14" />
+										<pt x="14" y="0" />
+										<pt x="32" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="32" y="0" />
+										<pt x="32" y="0" />
+										<pt x="32" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="49" y="0" />
+										<pt x="64" y="14" />
+										<pt x="64" y="32" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="64" y="48" />
+										<pt x="64" y="48" />
+										<pt x="64" y="48" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="64" y="65" />
+										<pt x="49" y="80" />
+										<pt x="32" y="80" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="995" name="Google Shape;995;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7650163" y="6527800" />
+							<ext cx="890700" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="996" name="Google Shape;996;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7650163" y="6653213" />
+							<ext cx="725400" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="997" name="Google Shape;997;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7650163" y="6778625" />
+							<ext cx="598500" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="998" name="Google Shape;998;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="8939213" y="5087938" />
+							<ext cx="1890600" cy="2354400" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="999" name="Google Shape;999;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="8339138" y="5099050" />
+							<ext cx="3425825" cy="2759075" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="2158" h="1738" extrusionOk="0">
+									<moveTo>
+										<pt x="2158" y="57" />
+									</moveTo>
+									<lnTo>
+										<pt x="1033" y="1177" />
+									</lnTo>
+									<lnTo>
+										<pt x="676" y="1177" />
+									</lnTo>
+									<lnTo>
+										<pt x="115" y="1738" />
+									</lnTo>
+									<lnTo>
+										<pt x="0" y="1738" />
+									</lnTo>
+									<lnTo>
+										<pt x="643" y="1098" />
+									</lnTo>
+									<lnTo>
+										<pt x="998" y="1098" />
+									</lnTo>
+									<lnTo>
+										<pt x="2103" y="0" />
+									</lnTo>
+									<lnTo>
+										<pt x="2158" y="57" />
+									</lnTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="FFB600" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1000" name="Google Shape;1000;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7519988" y="6527800" />
+							<ext cx="63600" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1001" name="Google Shape;1001;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="7519988" y="6653213" />
+							<ext cx="63600" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFB600" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1002" name="Google Shape;1002;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="8891588" y="4922838" />
+							<ext cx="95400" cy="95400" />
+						</xfrm>
+						<prstGeom prst="ellipse">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="7D7D7D" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1003" name="Google Shape;1003;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="10479088" y="7207250" />
+							<ext cx="839788" cy="831850" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="213" h="212" extrusionOk="0">
+									<moveTo>
+										<pt x="213" y="212" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="0" y="212" />
+										<pt x="0" y="212" />
+										<pt x="0" y="212" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="0" />
+										<pt x="0" y="0" />
+										<pt x="0" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="118" y="0" />
+										<pt x="213" y="95" />
+										<pt x="213" y="212" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="7D7D7D" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1004" name="Google Shape;1004;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="10479088" y="7207250" />
+							<ext cx="592138" cy="831850" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="150" h="212" extrusionOk="0">
+									<moveTo>
+										<pt x="150" y="62" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="0" y="212" />
+										<pt x="0" y="212" />
+										<pt x="0" y="212" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="0" />
+										<pt x="0" y="0" />
+										<pt x="0" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="59" y="0" />
+										<pt x="112" y="23" />
+										<pt x="150" y="62" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="FFB600" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1005" name="Google Shape;1005;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9644063" y="7207250" />
+							<ext cx="835025" cy="831850" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="212" h="212" extrusionOk="0">
+									<moveTo>
+										<pt x="212" y="0" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="212" y="212" />
+										<pt x="212" y="212" />
+										<pt x="212" y="212" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="212" />
+										<pt x="0" y="212" />
+										<pt x="0" y="212" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="95" />
+										<pt x="95" y="0" />
+										<pt x="212" y="0" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="E0301E" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1006" name="Google Shape;1006;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="10479088" y="7450138" />
+							<ext cx="839788" cy="588963" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="213" h="150" extrusionOk="0">
+									<moveTo>
+										<pt x="213" y="150" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="0" y="150" />
+										<pt x="0" y="150" />
+										<pt x="0" y="150" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="150" y="0" />
+										<pt x="150" y="0" />
+										<pt x="150" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="189" y="38" />
+										<pt x="213" y="91" />
+										<pt x="213" y="150" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="EB8C00" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1007" name="Google Shape;1007;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9521825" y="5573713" />
+							<ext cx="895200" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1008" name="Google Shape;1008;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9521825" y="5448300" />
+							<ext cx="744600" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1009" name="Google Shape;1009;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9521825" y="5322888" />
+							<ext cx="598500" cy="63600" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1010" name="Google Shape;1010;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9096375" y="5307013" />
+							<ext cx="346200" cy="346200" />
+						</xfrm>
+						<prstGeom prst="ellipse">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="7D7D7D" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1011" name="Google Shape;1011;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9226550" y="5872163" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFB600" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1012" name="Google Shape;1012;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9447213" y="5872163" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1013" name="Google Shape;1013;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9667875" y="5872163" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1014" name="Google Shape;1014;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9888538" y="5872163" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1015" name="Google Shape;1015;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="10109200" y="5872163" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1016" name="Google Shape;1016;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9226550" y="6092825" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1017" name="Google Shape;1017;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9447213" y="6092825" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1018" name="Google Shape;1018;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9667875" y="6092825" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1019" name="Google Shape;1019;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9888538" y="6092825" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1020" name="Google Shape;1020;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="10109200" y="6092825" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1021" name="Google Shape;1021;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9226550" y="6311900" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1022" name="Google Shape;1022;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9447213" y="6311900" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1023" name="Google Shape;1023;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9667875" y="6311900" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1024" name="Google Shape;1024;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9226550" y="6530975" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="BABABA" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1025" name="Google Shape;1025;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9447213" y="6530975" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1026" name="Google Shape;1026;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9667875" y="6530975" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1027" name="Google Shape;1027;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="9888538" y="6311900" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1028" name="Google Shape;1028;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="10109200" y="6311900" />
+							<ext cx="157200" cy="157200" />
+						</xfrm>
+						<prstGeom prst="rect">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="DEDEDE" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1029" name="Google Shape;1029;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="12296775" y="6762750" />
+							<ext cx="504825" cy="0" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="318" h="120000" extrusionOk="0">
+									<moveTo>
+										<pt x="318" y="0" />
+									</moveTo>
+									<lnTo>
+										<pt x="0" y="0" />
+									</lnTo>
+									<lnTo>
+										<pt x="318" y="0" />
+									</lnTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="7D7D7D" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1030" name="Google Shape;1030;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="12584058" y="7659733" />
+							<ext cx="334963" cy="333375" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="85" h="85" extrusionOk="0">
+									<moveTo>
+										<pt x="85" y="42" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="65" y="49" />
+										<pt x="49" y="65" />
+										<pt x="42" y="85" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="35" y="65" />
+										<pt x="20" y="49" />
+										<pt x="0" y="42" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="20" y="35" />
+										<pt x="35" y="19" />
+										<pt x="42" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="49" y="19" />
+										<pt x="65" y="35" />
+										<pt x="85" y="42" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1031" name="Google Shape;1031;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="12004682" y="6310315" />
+							<ext cx="339725" cy="336550" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="86" h="86" extrusionOk="0">
+									<moveTo>
+										<pt x="86" y="43" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="66" y="50" />
+										<pt x="50" y="66" />
+										<pt x="43" y="86" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="36" y="66" />
+										<pt x="20" y="50" />
+										<pt x="0" y="43" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="20" y="36" />
+										<pt x="36" y="20" />
+										<pt x="43" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="50" y="20" />
+										<pt x="66" y="36" />
+										<pt x="86" y="43" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="464646" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1032" name="Google Shape;1032;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="13400088" y="5445125" />
+							<ext cx="95400" cy="93600" />
+						</xfrm>
+						<prstGeom prst="ellipse">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1033" name="Google Shape;1033;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="5356225" y="7159625" />
+							<ext cx="103200" cy="93600" />
+						</xfrm>
+						<prstGeom prst="ellipse">
+							<avLst />
+						</prstGeom>
+						<solidFill>
+							<srgbClr val="FFFFFF" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1034" name="Google Shape;1034;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="11560175" y="7245350" />
+							<ext cx="250825" cy="250825" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="64" h="64" extrusionOk="0">
+									<moveTo>
+										<pt x="32" y="64" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="14" y="64" />
+										<pt x="0" y="50" />
+										<pt x="0" y="32" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="0" y="15" />
+										<pt x="14" y="0" />
+										<pt x="32" y="0" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="50" y="0" />
+										<pt x="64" y="15" />
+										<pt x="64" y="32" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="64" y="50" />
+										<pt x="50" y="64" />
+										<pt x="32" y="64" />
+									</cubicBezTo>
+									<close />
+									<moveTo>
+										<pt x="32" y="16" />
+									</moveTo>
+									<cubicBezTo>
+										<pt x="23" y="16" />
+										<pt x="16" y="23" />
+										<pt x="16" y="32" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="16" y="41" />
+										<pt x="23" y="48" />
+										<pt x="32" y="48" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="41" y="48" />
+										<pt x="48" y="41" />
+										<pt x="48" y="32" />
+									</cubicBezTo>
+									<cubicBezTo>
+										<pt x="48" y="23" />
+										<pt x="41" y="16" />
+										<pt x="32" y="16" />
+									</cubicBezTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="7D7D7D" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+				<sp>
+					<nvSpPr>
+						<cNvPr id="1035" name="Google Shape;1035;p98" />
+						<cNvSpPr />
+						<nvPr />
+					</nvSpPr>
+					<spPr>
+						<xfrm>
+							<off x="11398250" y="5087938" />
+							<ext cx="377825" cy="376238" />
+						</xfrm>
+						<custGeom>
+							<avLst />
+							<gdLst />
+							<ahLst />
+							<cxnLst />
+							<rect l="l" t="t" r="r" b="b" />
+							<pathLst>
+								<path w="238" h="237" extrusionOk="0">
+									<moveTo>
+										<pt x="238" y="237" />
+									</moveTo>
+									<lnTo>
+										<pt x="159" y="237" />
+									</lnTo>
+									<lnTo>
+										<pt x="159" y="79" />
+									</lnTo>
+									<lnTo>
+										<pt x="0" y="79" />
+									</lnTo>
+									<lnTo>
+										<pt x="0" y="0" />
+									</lnTo>
+									<lnTo>
+										<pt x="238" y="0" />
+									</lnTo>
+									<lnTo>
+										<pt x="238" y="237" />
+									</lnTo>
+									<close />
+								</path>
+							</pathLst>
+						</custGeom>
+						<solidFill>
+							<srgbClr val="FFB600" />
+						</solidFill>
+						<ln>
+							<noFill />
+						</ln>
+					</spPr>
+					<txBody>
+						<bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+							<noAutofit />
+						</bodyPr>
+						<lstStyle />
+						<p>
+							<pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+								<spcBef>
+									<spcPts val="0" />
+								</spcBef>
+								<spcAft>
+									<spcPts val="0" />
+								</spcAft>
+								<buNone />
+							</pPr>
+							<endParaRPr sz="1800">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Calibri" />
+								<ea typeface="Calibri" />
+								<cs typeface="Calibri" />
+								<sym typeface="Calibri" />
+							</endParaRPr>
+						</p>
+					</txBody>
+				</sp>
+			</grpSp>
+		</spTree>
+	</cSld>
+	<clrMapOvr>
+		<masterClrMapping />
+	</clrMapOvr>
+</sld>
