@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<viewPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" lastView="sldThumbnailView">
+<viewPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
 	<normalViewPr>
 		<restoredLeft sz="15611" />
 		<restoredTop sz="94694" />
 	</normalViewPr>
 	<slideViewPr>
 		<cSldViewPr snapToGrid="0">
-			<cViewPr varScale="1">
+			<cViewPr>
 				<scale>
-					<sx n="117" d="100" />
-					<sy n="117" d="100" />
+					<sx n="125" d="100" />
+					<sy n="125" d="100" />
 				</scale>
-				<origin x="808" y="168" />
+				<origin x="90" y="-2040" />
 			</cViewPr>
 			<guideLst>
 				<guide orient="horz" pos="1968" />

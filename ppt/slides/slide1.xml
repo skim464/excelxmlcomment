@@ -55,12 +55,12 @@
 							<buNone />
 						</pPr>
 						<r>
-							<rPr lang="en" sz="1200" />
+							<rPr lang="en" sz="1200" dirty="0" />
 							<t>
 								Our team has significant experience transitioning new clients. We know what it takes to work efficiently and effectively. As such, our transition will include the following:
 							</t>
 						</r>
-						<endParaRPr sz="1200" />
+						<endParaRPr sz="1200" dirty="0" />
 					</p>
 					<p>
 						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
@@ -74,12 +74,12 @@
 							<buChar char="•" />
 						</pPr>
 						<r>
-							<rPr lang="en" sz="1200" />
+							<rPr lang="en" sz="1200" dirty="0" />
 							<t>
 								On-site leadership by our core team to finalize our timeline, review work papers, and handle other administrative requirements
 							</t>
 						</r>
-						<endParaRPr sz="1200" />
+						<endParaRPr sz="1200" dirty="0" />
 					</p>
 					<p>
 						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
@@ -93,12 +93,12 @@
 							<buChar char="•" />
 						</pPr>
 						<r>
-							<rPr lang="en" sz="1200" />
+							<rPr lang="en" sz="1200" dirty="0" />
 							<t>
 								Weekly status updates
 							</t>
 						</r>
-						<endParaRPr sz="1200" />
+						<endParaRPr sz="1200" dirty="0" />
 					</p>
 					<p>
 						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
@@ -112,12 +112,12 @@
 							<buChar char="•" />
 						</pPr>
 						<r>
-							<rPr lang="en" sz="1200" />
+							<rPr lang="en" sz="1200" dirty="0" />
 							<t>
 								Training on our collaborative technology tool (Tax Engagement Center) for your team
 							</t>
 						</r>
-						<endParaRPr sz="1200" />
+						<endParaRPr sz="1200" dirty="0" />
 					</p>
 					<p>
 						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
@@ -131,12 +131,12 @@
 							<buChar char="•" />
 						</pPr>
 						<r>
-							<rPr lang="en" sz="1200" />
+							<rPr lang="en" sz="1200" dirty="0" />
 							<t>
 								Implementation of our processing technology
 							</t>
 						</r>
-						<endParaRPr sz="1200" />
+						<endParaRPr sz="1200" dirty="0" />
 					</p>
 					<p>
 						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
@@ -150,12 +150,12 @@
 							<buChar char="•" />
 						</pPr>
 						<r>
-							<rPr lang="en" sz="1200" />
+							<rPr lang="en" sz="1200" dirty="0" />
 							<t>
 								Review and finalization of our tax compliance calendar
 							</t>
 						</r>
-						<endParaRPr sz="1200" />
+						<endParaRPr sz="1200" dirty="0" />
 					</p>
 					<p>
 						<pPr marL="457200" lvl="0" indent="-304800" algn="l" rtl="0">
@@ -174,7 +174,7 @@
 								Tax diagnostic review of prior-year positions and work papers, with a focus on tax planning ideas that you conclude should be implemented as soon as possible
 							</t>
 						</r>
-						<endParaRPr sz="1200" />
+						<endParaRPr sz="1200" dirty="0" />
 					</p>
 					<p>
 						<pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
@@ -192,12 +192,12 @@
 							<buNone />
 						</pPr>
 						<r>
-							<rPr lang="en" sz="1200" />
+							<rPr lang="en" sz="1200" dirty="0" />
 							<t>
 								We’ve developed a preliminary transition plan and outlined that plan below. We welcome your input. Our plan assumes that you will select your advisor on or before &lt;&lt;Date&gt;&gt;.
 							</t>
 						</r>
-						<endParaRPr sz="1200" />
+						<endParaRPr sz="1200" dirty="0" />
 					</p>
 				</txBody>
 			</sp>
@@ -297,7 +297,13 @@
 				<nvGraphicFramePr>
 					<cNvPr id="970" name="Google Shape;970;p98" />
 					<cNvGraphicFramePr />
-					<nvPr />
+					<nvPr>
+						<extLst>
+							<ext uri="{D42A27DB-BD31-4B8C-83A1-F6EECF244321}">
+								<modId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="2492284208" />
+							</ext>
+						</extLst>
+					</nvPr>
 				</nvGraphicFramePr>
 				<xfrm>
 					<off x="442822" y="4547988" />
@@ -352,7 +358,7 @@
 												<buNone />
 											</pPr>
 											<r>
-												<rPr lang="en" sz="700" b="1" u="none" strike="noStrike" cap="none">
+												<rPr lang="en" sz="700" b="1" u="none" strike="noStrike" cap="none" dirty="0">
 													<solidFill>
 														<srgbClr val="FFFFFF" />
 													</solidFill>
@@ -361,7 +367,7 @@
 													Activity
 												</t>
 											</r>
-											<endParaRPr sz="900" b="1">
+											<endParaRPr sz="900" b="1" dirty="0">
 												<solidFill>
 													<srgbClr val="FFFFFF" />
 												</solidFill>
@@ -370,41 +376,43 @@
 									</txBody>
 									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
 										<lnL w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnL>
 										<lnR w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnR>
 										<lnT w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnT>
-										<lnB w="28575" cap="flat" cmpd="sng">
+										<lnB w="12700" cap="flat" cmpd="sng" algn="ctr">
 											<solidFill>
-												<srgbClr val="FFFFFF" />
+												<schemeClr val="tx1" />
 											</solidFill>
 											<prstDash val="solid" />
 											<round />
-											<headEnd type="none" w="sm" len="sm" />
-											<tailEnd type="none" w="sm" len="sm" />
+											<headEnd type="none" w="med" len="med" />
+											<tailEnd type="none" w="med" len="med" />
 										</lnB>
+										<lnTlToBr w="12700" cmpd="sng">
+											<noFill />
+											<prstDash val="solid" />
+										</lnTlToBr>
+										<lnBlToTr w="12700" cmpd="sng">
+											<noFill />
+											<prstDash val="solid" />
+										</lnBlToTr>
 										<solidFill>
 											<srgbClr val="EB8C00" />
 										</solidFill>
@@ -433,7 +441,7 @@
 												<buNone />
 											</pPr>
 											<r>
-												<rPr lang="en" sz="700" b="1" u="none" strike="noStrike" cap="none">
+												<rPr lang="en" sz="700" b="1" u="none" strike="noStrike" cap="none" dirty="0">
 													<solidFill>
 														<srgbClr val="FFFFFF" />
 													</solidFill>
@@ -442,7 +450,7 @@
 													Anticipated timing and notes
 												</t>
 											</r>
-											<endParaRPr sz="900" b="1">
+											<endParaRPr sz="900" b="1" dirty="0">
 												<solidFill>
 													<srgbClr val="FFFFFF" />
 												</solidFill>
@@ -451,41 +459,43 @@
 									</txBody>
 									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
 										<lnL w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnL>
 										<lnR w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnR>
 										<lnT w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnT>
-										<lnB w="28575" cap="flat" cmpd="sng">
+										<lnB w="12700" cap="flat" cmpd="sng" algn="ctr">
 											<solidFill>
-												<srgbClr val="FFFFFF" />
+												<schemeClr val="tx1" />
 											</solidFill>
 											<prstDash val="solid" />
 											<round />
-											<headEnd type="none" w="sm" len="sm" />
-											<tailEnd type="none" w="sm" len="sm" />
+											<headEnd type="none" w="med" len="med" />
+											<tailEnd type="none" w="med" len="med" />
 										</lnB>
+										<lnTlToBr w="12700" cmpd="sng">
+											<noFill />
+											<prstDash val="solid" />
+										</lnTlToBr>
+										<lnBlToTr w="12700" cmpd="sng">
+											<noFill />
+											<prstDash val="solid" />
+										</lnBlToTr>
 										<solidFill>
 											<srgbClr val="D93954" />
 										</solidFill>
@@ -572,14 +582,14 @@
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnR>
-										<lnT w="28575" cap="flat" cmpd="sng">
+										<lnT w="12700" cap="flat" cmpd="sng" algn="ctr">
 											<solidFill>
-												<srgbClr val="FFFFFF" />
+												<schemeClr val="tx1" />
 											</solidFill>
 											<prstDash val="solid" />
 											<round />
-											<headEnd type="none" w="sm" len="sm" />
-											<tailEnd type="none" w="sm" len="sm" />
+											<headEnd type="none" w="med" len="med" />
+											<tailEnd type="none" w="med" len="med" />
 										</lnT>
 										<lnB w="28575" cap="flat" cmpd="sng">
 											<solidFill>
@@ -726,14 +736,14 @@
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnR>
-										<lnT w="28575" cap="flat" cmpd="sng">
+										<lnT w="12700" cap="flat" cmpd="sng" algn="ctr">
 											<solidFill>
-												<srgbClr val="FFFFFF" />
+												<schemeClr val="tx1" />
 											</solidFill>
 											<prstDash val="solid" />
 											<round />
-											<headEnd type="none" w="sm" len="sm" />
-											<tailEnd type="none" w="sm" len="sm" />
+											<headEnd type="none" w="med" len="med" />
+											<tailEnd type="none" w="med" len="med" />
 										</lnT>
 										<lnB w="28575" cap="flat" cmpd="sng">
 											<solidFill>
@@ -1019,12 +1029,12 @@
 												<buChar char="●" />
 											</pPr>
 											<r>
-												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" dirty="0" />
 												<t>
 													Attendance at shareholder meetings
 												</t>
 											</r>
-											<endParaRPr sz="900" />
+											<endParaRPr sz="900" dirty="0" />
 										</p>
 										<p>
 											<pPr marL="171450" marR="0" lvl="0" indent="-158750" algn="l" rtl="0">
@@ -1041,13 +1051,13 @@
 												<buChar char="●" />
 											</pPr>
 											<r>
-												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" dirty="0" />
 												<t>
 													Global team introductions (visits to
 												</t>
 											</r>
 											<r>
-												<rPr lang="en" sz="700">
+												<rPr lang="en" sz="700" dirty="0">
 													<solidFill>
 														<srgbClr val="000000" />
 													</solidFill>
@@ -1057,12 +1067,12 @@
 												</t>
 											</r>
 											<r>
-												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" />
+												<rPr lang="en" sz="700" u="none" strike="noStrike" cap="none" dirty="0" />
 												<t>
 													locations internationally)
 												</t>
 											</r>
-											<endParaRPr sz="900" />
+											<endParaRPr sz="900" dirty="0" />
 										</p>
 									</txBody>
 									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
