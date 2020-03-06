@@ -25,7 +25,13 @@
 						</extLst>
 					</cNvPr>
 					<cNvGraphicFramePr />
-					<nvPr />
+					<nvPr>
+						<extLst>
+							<ext uri="{D42A27DB-BD31-4B8C-83A1-F6EECF244321}">
+								<modId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="529127295" />
+							</ext>
+						</extLst>
+					</nvPr>
 				</nvGraphicFramePr>
 				<xfrm>
 					<off x="442822" y="4547988" />
@@ -95,41 +101,43 @@
 									</txBody>
 									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
 										<lnL w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnL>
 										<lnR w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnR>
 										<lnT w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnT>
-										<lnB w="28575" cap="flat" cmpd="sng">
+										<lnB w="12700" cap="flat" cmpd="sng" algn="ctr">
 											<solidFill>
-												<srgbClr val="FFFFFF" />
+												<schemeClr val="tx1" />
 											</solidFill>
 											<prstDash val="solid" />
 											<round />
-											<headEnd type="none" w="sm" len="sm" />
-											<tailEnd type="none" w="sm" len="sm" />
+											<headEnd type="none" w="med" len="med" />
+											<tailEnd type="none" w="med" len="med" />
 										</lnB>
+										<lnTlToBr w="12700" cmpd="sng">
+											<noFill />
+											<prstDash val="solid" />
+										</lnTlToBr>
+										<lnBlToTr w="12700" cmpd="sng">
+											<noFill />
+											<prstDash val="solid" />
+										</lnBlToTr>
 										<solidFill>
 											<srgbClr val="EB8C00" />
 										</solidFill>
@@ -176,9 +184,7 @@
 									</txBody>
 									<tcPr marL="143375" marR="143375" marT="62325" marB="62325">
 										<lnL w="9525" cap="flat" cmpd="sng">
-											<solidFill>
-												<srgbClr val="FFFFFF" />
-											</solidFill>
+											<noFill />
 											<prstDash val="solid" />
 											<round />
 											<headEnd type="none" w="sm" len="sm" />
@@ -297,14 +303,14 @@
 											<headEnd type="none" w="sm" len="sm" />
 											<tailEnd type="none" w="sm" len="sm" />
 										</lnR>
-										<lnT w="28575" cap="flat" cmpd="sng">
+										<lnT w="12700" cap="flat" cmpd="sng" algn="ctr">
 											<solidFill>
-												<srgbClr val="FFFFFF" />
+												<schemeClr val="tx1" />
 											</solidFill>
 											<prstDash val="solid" />
 											<round />
-											<headEnd type="none" w="sm" len="sm" />
-											<tailEnd type="none" w="sm" len="sm" />
+											<headEnd type="none" w="med" len="med" />
+											<tailEnd type="none" w="med" len="med" />
 										</lnT>
 										<lnB w="28575" cap="flat" cmpd="sng">
 											<solidFill>

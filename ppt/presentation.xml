@@ -103,4 +103,9 @@
 			</defRPr>
 		</lvl9pPr>
 	</defaultTextStyle>
+	<extLst>
+		<ext uri="{EFAFB233-063F-42B5-8137-9DF3F51BA10A}">
+			<sldGuideLst xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main" />
+		</ext>
+	</extLst>
 </presentation>
