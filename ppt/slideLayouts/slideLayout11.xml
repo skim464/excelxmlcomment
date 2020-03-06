@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" type="vertTitleAndTx" preserve="1">
+	<cSld name="Vertical Title and Text">
+		<spTree>
+			<nvGrpSpPr>
+				<cNvPr id="1" name="" />
+				<cNvGrpSpPr />
+				<nvPr />
+			</nvGrpSpPr>
+			<grpSpPr>
+				<xfrm>
+					<off x="0" y="0" />
+					<ext cx="0" cy="0" />
+					<chOff x="0" y="0" />
+					<chExt cx="0" cy="0" />
+				</xfrm>
+			</grpSpPr>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="2" name="Vertical Title 1">
+						<extLst>
+							<ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{FA9BD95D-B7AD-48F3-AE0E-D994BB8DCB94}" />
+							</ext>
+						</extLst>
+					</cNvPr>
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="title" orient="vert" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="8724900" y="365125" />
+						<ext cx="2628900" cy="5811838" />
+					</xfrm>
+				</spPr>
+				<txBody>
+					<bodyPr vert="eaVert" />
+					<lstStyle />
+					<p>
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Click to edit Master title style
+							</t>
+						</r>
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="3" name="Vertical Text Placeholder 2">
+						<extLst>
+							<ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{2CBCD85B-F109-4001-B6F5-997418A3695D}" />
+							</ext>
+						</extLst>
+					</cNvPr>
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="body" orient="vert" idx="1" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="838200" y="365125" />
+						<ext cx="7734300" cy="5811838" />
+					</xfrm>
+				</spPr>
+				<txBody>
+					<bodyPr vert="eaVert" />
+					<lstStyle />
+					<p>
+						<pPr lvl="0" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Click to edit Master text styles
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr lvl="1" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Second level
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr lvl="2" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Third level
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr lvl="3" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Fourth level
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr lvl="4" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Fifth level
+							</t>
+						</r>
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="4" name="Date Placeholder 3">
+						<extLst>
+							<ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{1A9E9169-0949-4A69-9148-8D5252799706}" />
+							</ext>
+						</extLst>
+					</cNvPr>
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="dt" sz="half" idx="10" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr />
+					<lstStyle />
+					<p>
+						<fld id="{2402A70F-ECEB-474C-88F7-9B625DAD10BE}" type="datetimeFigureOut">
+							<rPr lang="en-US" smtClean="0" />
+							<t>
+								3/6/2020
+							</t>
+						</fld>
+						<endParaRPr lang="en-US" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="5" name="Footer Placeholder 4">
+						<extLst>
+							<ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{EDF8F436-0436-4038-B227-B25AC422FB59}" />
+							</ext>
+						</extLst>
+					</cNvPr>
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="ftr" sz="quarter" idx="11" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr />
+					<lstStyle />
+					<p>
+						<endParaRPr lang="en-US" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="6" name="Slide Number Placeholder 5">
+						<extLst>
+							<ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{8696591F-9514-41F5-8840-B4716EB10909}" />
+							</ext>
+						</extLst>
+					</cNvPr>
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="sldNum" sz="quarter" idx="12" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr />
+					<lstStyle />
+					<p>
+						<fld id="{604ADB10-0AF6-400A-B660-EF44CEFC5632}" type="slidenum">
+							<rPr lang="en-US" smtClean="0" />
+							<t>
+								‹#›
+							</t>
+						</fld>
+						<endParaRPr lang="en-US" />
+					</p>
+				</txBody>
+			</sp>
+		</spTree>
+		<extLst>
+			<ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+				<creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="1788798793" />
+			</ext>
+		</extLst>
+	</cSld>
+	<clrMapOvr>
+		<masterClrMapping />
+	</clrMapOvr>
+</sldLayout>
