@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
 	<cSld>
 		<spTree>
@@ -126,7 +127,7 @@
 					<p>
 						<pPr marL="215504" indent="-215504" fontAlgn="base">
 							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							<buChar char="&#8226;" />
+							<buChar char="•" />
 						</pPr>
 						<r>
 							<rPr lang="en-US" sz="1400" dirty="0">
@@ -144,7 +145,7 @@
 					<p>
 						<pPr marL="215504" indent="-215504" fontAlgn="base">
 							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							<buChar char="&#8226;" />
+							<buChar char="•" />
 						</pPr>
 						<r>
 							<rPr lang="en-US" sz="1400" dirty="0">
@@ -162,7 +163,7 @@
 					<p>
 						<pPr marL="215504" indent="-215504" fontAlgn="base">
 							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							<buChar char="&#8226;" />
+							<buChar char="•" />
 						</pPr>
 						<r>
 							<rPr lang="en-US" sz="1400" dirty="0">
@@ -178,13 +179,6 @@
 						</r>
 					</p>
 					<p>
-						<r>
-							<rPr lang="en-US" sz="1400" dirty="0">
-								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							</rPr>
-							<t />
-						</r>
 						<br>
 							<rPr lang="en-US" sz="1400" dirty="0">
 								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
@@ -221,13 +215,6 @@
 						</endParaRPr>
 					</p>
 					<p>
-						<r>
-							<rPr lang="en-US" sz="1400" dirty="0">
-								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							</rPr>
-							<t />
-						</r>
 						<br>
 							<rPr lang="en-US" sz="1400" dirty="0">
 								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
@@ -299,7 +286,7 @@
 					<p>
 						<pPr marL="173831" indent="-173831" fontAlgn="base">
 							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							<buChar char="&#8226;" />
+							<buChar char="•" />
 						</pPr>
 						<r>
 							<rPr lang="en-US" sz="1400" dirty="0">
@@ -317,7 +304,7 @@
 					<p>
 						<pPr marL="173831" indent="-173831" fontAlgn="base">
 							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							<buChar char="&#8226;" />
+							<buChar char="•" />
 						</pPr>
 						<r>
 							<rPr lang="en-US" sz="1400" dirty="0">
@@ -328,14 +315,14 @@
 								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
 							</rPr>
 							<t>
-								Analyze trends; and&#160;
+								Analyze trends; and
 							</t>
 						</r>
 					</p>
 					<p>
 						<pPr marL="173831" indent="-173831" fontAlgn="base">
 							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
-							<buChar char="&#8226;" />
+							<buChar char="•" />
 						</pPr>
 						<r>
 							<rPr lang="en-US" sz="1400" dirty="0">
@@ -349,6 +336,93 @@
 								Generate report.
 							</t>
 						</r>
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="2" name="Date Placeholder 1">
+						<extLst>
+							<ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{D5A51768-1206-4A1D-A92F-26BFEFD6B551}" />
+							</ext>
+						</extLst>
+					</cNvPr>
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="dt" sz="half" idx="10" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr />
+					<lstStyle />
+					<p>
+						<fld id="{950B98EB-8486-4069-964F-6907D191EC30}" type="datetime1">
+							<rPr lang="en-US" smtClean="0" />
+							<t>
+								3/7/2020
+							</t>
+						</fld>
+						<endParaRPr lang="en-US" dirty="0" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="3" name="Footer Placeholder 2">
+						<extLst>
+							<ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{C0E8E381-498B-47D7-BE95-214E51203E8A}" />
+							</ext>
+						</extLst>
+					</cNvPr>
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="ftr" sz="quarter" idx="11" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr />
+					<lstStyle />
+					<p>
+						<endParaRPr lang="en-US" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="4" name="Slide Number Placeholder 3">
+						<extLst>
+							<ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{D6E0351D-5155-454E-AB68-CDCA4FD32AD4}" />
+							</ext>
+						</extLst>
+					</cNvPr>
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="sldNum" sz="quarter" idx="12" />
+					</nvPr>
+				</nvSpPr>
+				<spPr />
+				<txBody>
+					<bodyPr />
+					<lstStyle />
+					<p>
+						<fld id="{8746BA58-C47C-4696-8841-6F860AE51489}" type="slidenum">
+							<rPr lang="en-US" smtClean="0" />
+							<t>
+								1
+							</t>
+						</fld>
+						<endParaRPr lang="en-US" dirty="0" />
 					</p>
 				</txBody>
 			</sp>
