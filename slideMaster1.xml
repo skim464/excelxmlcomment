@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sldMaster xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+	<cSld>
+		<bg>
+			<bgRef idx="1001">
+				<schemeClr val="bg1" />
+			</bgRef>
+		</bg>
+		<spTree>
+			<nvGrpSpPr>
+				<cNvPr id="1" name="" />
+				<cNvGrpSpPr />
+				<nvPr />
+			</nvGrpSpPr>
+			<grpSpPr>
+				<xfrm>
+					<off x="0" y="0" />
+					<ext cx="0" cy="0" />
+					<chOff x="0" y="0" />
+					<chExt cx="0" cy="0" />
+				</xfrm>
+			</grpSpPr>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="2" name="Title Placeholder 1" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="title" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="628650" y="365126" />
+						<ext cx="7886700" cy="1325563" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr">
+						<normAutofit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Click to edit Master title style
+							</t>
+						</r>
+						<endParaRPr lang="en-US" dirty="0" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="3" name="Text Placeholder 2" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="body" idx="1" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="628650" y="1825625" />
+						<ext cx="7886700" cy="4351338" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0">
+						<normAutofit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<pPr lvl="0" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Edit Master text styles
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr lvl="1" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Second level
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr lvl="2" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Third level
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr lvl="3" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Fourth level
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr lvl="4" />
+						<r>
+							<rPr lang="en-US" />
+							<t>
+								Fifth level
+							</t>
+						</r>
+						<endParaRPr lang="en-US" dirty="0" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="4" name="Date Placeholder 3" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="dt" sz="half" idx="2" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="628650" y="6356351" />
+						<ext cx="2057400" cy="365125" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr" />
+					<lstStyle>
+						<lvl1pPr algn="l">
+							<defRPr sz="1200">
+								<solidFill>
+									<schemeClr val="tx1">
+										<tint val="75000" />
+									</schemeClr>
+								</solidFill>
+							</defRPr>
+						</lvl1pPr>
+					</lstStyle>
+					<p>
+						<fld id="{3BC7EB3C-FBAA-4124-BC6C-08FB5285D083}" type="datetime1">
+							<rPr lang="en-US" smtClean="0" />
+							<t>
+								3/7/2020
+							</t>
+						</fld>
+						<endParaRPr lang="en-US" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="5" name="Footer Placeholder 4" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="ftr" sz="quarter" idx="3" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="3028950" y="6356351" />
+						<ext cx="3086100" cy="365125" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr" />
+					<lstStyle>
+						<lvl1pPr algn="ctr">
+							<defRPr sz="1200">
+								<solidFill>
+									<schemeClr val="tx1">
+										<tint val="75000" />
+									</schemeClr>
+								</solidFill>
+							</defRPr>
+						</lvl1pPr>
+					</lstStyle>
+					<p>
+						<endParaRPr lang="en-US" />
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="6" name="Slide Number Placeholder 5" />
+					<cNvSpPr>
+						<spLocks noGrp="1" />
+					</cNvSpPr>
+					<nvPr>
+						<ph type="sldNum" sz="quarter" idx="4" />
+					</nvPr>
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="6457950" y="6356351" />
+						<ext cx="2057400" cy="365125" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr" />
+					<lstStyle>
+						<lvl1pPr algn="r">
+							<defRPr sz="1200">
+								<solidFill>
+									<schemeClr val="tx1">
+										<tint val="75000" />
+									</schemeClr>
+								</solidFill>
+							</defRPr>
+						</lvl1pPr>
+					</lstStyle>
+					<p>
+						<fld id="{8746BA58-C47C-4696-8841-6F860AE51489}" type="slidenum">
+							<rPr lang="en-US" smtClean="0" />
+							<t>
+								‹#›
+							</t>
+						</fld>
+						<endParaRPr lang="en-US" />
+					</p>
+				</txBody>
+			</sp>
+		</spTree>
+		<extLst>
+			<ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+				<creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="2649926673" />
+			</ext>
+		</extLst>
+	</cSld>
+	<clrMap bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink" />
+	<sldLayoutIdLst>
+		<sldLayoutId id="2147483661" r:id="rId1" />
+		<sldLayoutId id="2147483662" r:id="rId2" />
+		<sldLayoutId id="2147483663" r:id="rId3" />
+		<sldLayoutId id="2147483664" r:id="rId4" />
+		<sldLayoutId id="2147483665" r:id="rId5" />
+		<sldLayoutId id="2147483666" r:id="rId6" />
+		<sldLayoutId id="2147483667" r:id="rId7" />
+		<sldLayoutId id="2147483668" r:id="rId8" />
+		<sldLayoutId id="2147483669" r:id="rId9" />
+		<sldLayoutId id="2147483670" r:id="rId10" />
+		<sldLayoutId id="2147483671" r:id="rId11" />
+	</sldLayoutIdLst>
+	<hf hdr="0" />
+	<txStyles>
+		<titleStyle>
+			<lvl1pPr algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPct val="0" />
+				</spcBef>
+				<buNone />
+				<defRPr sz="4400" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mj-lt" />
+					<ea typeface="+mj-ea" />
+					<cs typeface="+mj-cs" />
+				</defRPr>
+			</lvl1pPr>
+		</titleStyle>
+		<bodyStyle>
+			<lvl1pPr marL="228600" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="1000" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="2800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl1pPr>
+			<lvl2pPr marL="685800" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="500" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="2400" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl2pPr>
+			<lvl3pPr marL="1143000" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="500" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="2000" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl3pPr>
+			<lvl4pPr marL="1600200" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="500" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl4pPr>
+			<lvl5pPr marL="2057400" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="500" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl5pPr>
+			<lvl6pPr marL="2514600" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="500" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl6pPr>
+			<lvl7pPr marL="2971800" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="500" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl7pPr>
+			<lvl8pPr marL="3429000" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="500" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl8pPr>
+			<lvl9pPr marL="3886200" indent="-228600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<lnSpc>
+					<spcPct val="90000" />
+				</lnSpc>
+				<spcBef>
+					<spcPts val="500" />
+				</spcBef>
+				<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+				<buChar char="•" />
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl9pPr>
+		</bodyStyle>
+		<otherStyle>
+			<defPPr>
+				<defRPr lang="en-US" />
+			</defPPr>
+			<lvl1pPr marL="0" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl1pPr>
+			<lvl2pPr marL="457200" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl2pPr>
+			<lvl3pPr marL="914400" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl3pPr>
+			<lvl4pPr marL="1371600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl4pPr>
+			<lvl5pPr marL="1828800" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl5pPr>
+			<lvl6pPr marL="2286000" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl6pPr>
+			<lvl7pPr marL="2743200" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl7pPr>
+			<lvl8pPr marL="3200400" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl8pPr>
+			<lvl9pPr marL="3657600" algn="l" defTabSz="914400" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+				<defRPr sz="1800" kern="1200">
+					<solidFill>
+						<schemeClr val="tx1" />
+					</solidFill>
+					<latin typeface="+mn-lt" />
+					<ea typeface="+mn-ea" />
+					<cs typeface="+mn-cs" />
+				</defRPr>
+			</lvl9pPr>
+		</otherStyle>
+	</txStyles>
+</sldMaster>
