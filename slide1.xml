@@ -1,0 +1,365 @@
+<sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+	<cSld>
+		<spTree>
+			<nvGrpSpPr>
+				<cNvPr id="1" name="" />
+				<cNvGrpSpPr />
+				<nvPr />
+			</nvGrpSpPr>
+			<grpSpPr>
+				<xfrm>
+					<off x="0" y="0" />
+					<ext cx="0" cy="0" />
+					<chOff x="0" y="0" />
+					<chExt cx="0" cy="0" />
+				</xfrm>
+			</grpSpPr>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="5" name="Rectangle 4" />
+					<cNvSpPr />
+					<nvPr />
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="2286000" y="3082752" />
+						<ext cx="4572000" cy="715581" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr>
+						<spAutoFit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<endParaRPr lang="en-US" sz="1350" dirty="0" />
+					</p>
+					<p>
+						<endParaRPr lang="en-US" sz="1350" dirty="0" />
+					</p>
+					<p>
+						<r>
+							<rPr lang="en-US" sz="1350" dirty="0" />
+							<t>
+							</t>
+						</r>
+					</p>
+				</txBody>
+			</sp>
+			<sp>
+				<nvSpPr>
+					<cNvPr id="6" name="Rectangle 5" />
+					<cNvSpPr />
+					<nvPr />
+				</nvSpPr>
+				<spPr>
+					<xfrm>
+						<off x="617561" y="1442747" />
+						<ext cx="7929350" cy="3754874" />
+					</xfrm>
+					<prstGeom prst="rect">
+						<avLst />
+					</prstGeom>
+				</spPr>
+				<txBody>
+					<bodyPr wrap="square">
+						<spAutoFit />
+					</bodyPr>
+					<lstStyle />
+					<p>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								1. Omit punctuation marks after items in a bulleted list
+							</t>
+						</r>
+						<endParaRPr lang="en-US" sz="1400" dirty="0">
+							<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+						</endParaRPr>
+					</p>
+					<p>
+						<r>
+							<rPr lang="en-US" sz="1400" b="1" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Example:
+							</t>
+						</r>
+						<endParaRPr lang="en-US" sz="1400" b="1" dirty="0">
+							<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+						</endParaRPr>
+					</p>
+					<p>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								We will achieve this with the assistance of the following:
+							</t>
+						</r>
+						<endParaRPr lang="en-US" sz="1400" dirty="0">
+							<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+						</endParaRPr>
+					</p>
+					<p>
+						<pPr marL="215504" indent="-215504" fontAlgn="base">
+							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<buChar char="&#8226;" />
+						</pPr>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Industry experience
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr marL="215504" indent="-215504" fontAlgn="base">
+							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<buChar char="&#8226;" />
+						</pPr>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Current tools
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr marL="215504" indent="-215504" fontAlgn="base">
+							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<buChar char="&#8226;" />
+						</pPr>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Previous experience with you
+							</t>
+						</r>
+					</p>
+					<p>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t />
+						</r>
+						<br>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+						</br>
+						<r>
+							<rPr lang="en-US" sz="1400" b="1" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Exception
+							</t>
+						</r>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								- When one or more of the items are complete sentences, we can use punctuation marks.
+							</t>
+						</r>
+						<endParaRPr lang="en-US" sz="1400" dirty="0">
+							<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+						</endParaRPr>
+					</p>
+					<p>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t />
+						</r>
+						<br>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+						</br>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								2.
+							</t>
+						</r>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								When the line preceding and the bullet points make one complete sentence, we use semicolon at the end of each bullet point, and period for the last bullet point.
+							</t>
+						</r>
+						<endParaRPr lang="en-US" sz="1400" dirty="0">
+							<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+						</endParaRPr>
+					</p>
+					<p>
+						<r>
+							<rPr lang="en-US" sz="1400" b="1" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Example:
+							</t>
+						</r>
+						<endParaRPr lang="en-US" sz="1400" b="1" dirty="0">
+							<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+						</endParaRPr>
+					</p>
+					<p>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								We will use this tool to:
+							</t>
+						</r>
+						<endParaRPr lang="en-US" sz="1400" dirty="0">
+							<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+						</endParaRPr>
+					</p>
+					<p>
+						<pPr marL="173831" indent="-173831" fontAlgn="base">
+							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<buChar char="&#8226;" />
+						</pPr>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Extract data;
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr marL="173831" indent="-173831" fontAlgn="base">
+							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<buChar char="&#8226;" />
+						</pPr>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Analyze trends; and&#160;
+							</t>
+						</r>
+					</p>
+					<p>
+						<pPr marL="173831" indent="-173831" fontAlgn="base">
+							<buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							<buChar char="&#8226;" />
+						</pPr>
+						<r>
+							<rPr lang="en-US" sz="1400" dirty="0">
+								<solidFill>
+									<srgbClr val="000000" />
+								</solidFill>
+								<latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+								<cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0" />
+							</rPr>
+							<t>
+								Generate report.
+							</t>
+						</r>
+					</p>
+				</txBody>
+			</sp>
+		</spTree>
+		<extLst>
+			<ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+				<creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="159266873" />
+			</ext>
+		</extLst>
+	</cSld>
+	<clrMapOvr>
+		<masterClrMapping />
+	</clrMapOvr>
+</sld>
